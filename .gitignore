@@ -4,8 +4,12 @@ __pycache__/
 .vscode/
 
 # Ignore large datasets (FairFace/UTKFace)
-data/raw/
+data/FairFace/
+data/UTKFace/
+data/LFW/
 *.zip
+*.tgz
+*.gz
 
 # Ignore large model weights
 models/*.h5

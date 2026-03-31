@@ -1,0 +1,12 @@
+# Ignore Anaconda and Python cache
+__pycache__/
+.DS_Store
+.vscode/
+
+# Ignore large datasets (FairFace/UTKFace)
+data/raw/
+*.zip
+
+# Ignore large model weights
+models/*.h5
+models/*.pb

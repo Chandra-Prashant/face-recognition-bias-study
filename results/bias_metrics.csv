@@ -1,117 +1,1465 @@
-demographic,model,perturbation,similarity
-Indian,ArcFace,eye_occlusion,0.7756571780875321
-Indian,VGG-Face,eye_occlusion,0.9411921115264152
-Indian,ArcFace,eye_occlusion,0.9990092277996366
-Indian,VGG-Face,eye_occlusion,0.9793126656145958
-Indian,ArcFace,eye_occlusion,0.9816216417505189
-Indian,VGG-Face,eye_occlusion,0.9151211227039225
-Indian,ArcFace,eye_occlusion,0.8961005263521092
-Indian,VGG-Face,eye_occlusion,0.7702653100860867
-Indian,ArcFace,eye_occlusion,0.9580013176163206
-Indian,VGG-Face,eye_occlusion,0.9961653631959484
-Latino_Hispanic,ArcFace,eye_occlusion,0.9927641994660052
-Latino_Hispanic,VGG-Face,eye_occlusion,0.9819951696502554
-Latino_Hispanic,ArcFace,eye_occlusion,0.9805299185734963
-Latino_Hispanic,VGG-Face,eye_occlusion,0.9892953358047132
-Latino_Hispanic,ArcFace,eye_occlusion,0.9938315028522356
-Latino_Hispanic,VGG-Face,eye_occlusion,0.9896910122221639
-Latino_Hispanic,ArcFace,eye_occlusion,0.8200390617327954
-Latino_Hispanic,VGG-Face,eye_occlusion,0.7567529913892272
-Latino_Hispanic,ArcFace,eye_occlusion,0.8885822267755928
-Latino_Hispanic,VGG-Face,eye_occlusion,0.8650022188679268
-Latino_Hispanic,ArcFace,eye_occlusion,0.9953204642303058
-Latino_Hispanic,VGG-Face,eye_occlusion,0.9432446075385553
-Latino_Hispanic,ArcFace,eye_occlusion,0.8978233820913821
-Latino_Hispanic,VGG-Face,eye_occlusion,0.6507993053850849
-East Asian,ArcFace,eye_occlusion,0.8250340384608574
-East Asian,VGG-Face,eye_occlusion,0.576598645103761
-East Asian,ArcFace,eye_occlusion,0.8840099930486958
-East Asian,VGG-Face,eye_occlusion,0.8883752397233542
-East Asian,ArcFace,eye_occlusion,0.8953508032241514
-East Asian,VGG-Face,eye_occlusion,0.8913662827887688
-East Asian,ArcFace,eye_occlusion,0.8999418174533291
-East Asian,VGG-Face,eye_occlusion,0.8278843712600024
-East Asian,ArcFace,eye_occlusion,0.8905058441578836
-East Asian,VGG-Face,eye_occlusion,0.8256265053890625
-East Asian,ArcFace,eye_occlusion,0.9658900435865796
-East Asian,VGG-Face,eye_occlusion,0.936436956002354
-East Asian,ArcFace,eye_occlusion,0.9508863671270862
-East Asian,VGG-Face,eye_occlusion,0.9225127431740809
-East Asian,ArcFace,eye_occlusion,0.9903960572200214
-East Asian,VGG-Face,eye_occlusion,0.9000744754946197
-Middle Eastern,ArcFace,eye_occlusion,0.970556555297461
-Middle Eastern,VGG-Face,eye_occlusion,0.9945598502681845
-Middle Eastern,ArcFace,eye_occlusion,0.9992951346949646
-Middle Eastern,VGG-Face,eye_occlusion,0.9571632367534996
-Middle Eastern,ArcFace,eye_occlusion,0.9971010557165098
-Middle Eastern,VGG-Face,eye_occlusion,0.9648338098223809
-Middle Eastern,ArcFace,eye_occlusion,0.6177304983551343
-Middle Eastern,VGG-Face,eye_occlusion,0.2871822714780716
-Middle Eastern,ArcFace,eye_occlusion,0.41347483320014256
-Middle Eastern,VGG-Face,eye_occlusion,0.6442814177502044
-Middle Eastern,ArcFace,eye_occlusion,0.7528904217980654
-Middle Eastern,VGG-Face,eye_occlusion,0.5755731498303254
-Middle Eastern,ArcFace,eye_occlusion,0.0196029022810242
-Middle Eastern,VGG-Face,eye_occlusion,0.12181313261880172
-White,ArcFace,eye_occlusion,0.9440669426719973
-White,VGG-Face,eye_occlusion,0.7612320034623723
-White,ArcFace,eye_occlusion,0.9316369993754711
-White,VGG-Face,eye_occlusion,0.872694195745623
-White,ArcFace,eye_occlusion,0.9929939462412692
-White,VGG-Face,eye_occlusion,0.8779611066777462
-White,ArcFace,eye_occlusion,0.9330528586752681
-White,VGG-Face,eye_occlusion,0.9089806933662209
-White,ArcFace,eye_occlusion,0.9985336477418904
-White,VGG-Face,eye_occlusion,0.9763869970782686
-White,ArcFace,eye_occlusion,0.12350299932858352
-White,VGG-Face,eye_occlusion,0.0759311988191735
-White,ArcFace,eye_occlusion,0.857146648189235
-White,VGG-Face,eye_occlusion,0.7565100739810587
-White,ArcFace,eye_occlusion,0.9994148786214303
-White,VGG-Face,eye_occlusion,0.9653477948863196
-White,ArcFace,eye_occlusion,0.7447928576066613
-White,VGG-Face,eye_occlusion,0.7153848811945879
-White,ArcFace,eye_occlusion,0.9898844099937077
-White,VGG-Face,eye_occlusion,0.9882035669646273
-White,ArcFace,eye_occlusion,0.9992073360355886
-White,VGG-Face,eye_occlusion,0.9803823840005357
-Southeast Asian,ArcFace,eye_occlusion,0.9024093419335704
-Southeast Asian,VGG-Face,eye_occlusion,0.8746663977538308
-Southeast Asian,ArcFace,eye_occlusion,0.9971104666284699
-Southeast Asian,VGG-Face,eye_occlusion,0.9512019598855547
-Southeast Asian,ArcFace,eye_occlusion,0.9919692840097069
-Southeast Asian,VGG-Face,eye_occlusion,0.9580553005280737
-Southeast Asian,ArcFace,eye_occlusion,0.9913984914453282
-Southeast Asian,VGG-Face,eye_occlusion,0.925889043364693
-Southeast Asian,ArcFace,eye_occlusion,0.09399611230177113
-Southeast Asian,VGG-Face,eye_occlusion,0.18334661031682442
-Southeast Asian,ArcFace,eye_occlusion,0.9413857844571674
-Southeast Asian,VGG-Face,eye_occlusion,0.8856440703658467
-Southeast Asian,ArcFace,eye_occlusion,0.7358853060679272
-Southeast Asian,VGG-Face,eye_occlusion,0.7401520266507915
-Southeast Asian,ArcFace,eye_occlusion,0.9642763015319432
-Southeast Asian,VGG-Face,eye_occlusion,0.9043717663453985
-Southeast Asian,ArcFace,eye_occlusion,0.9512763312281278
-Southeast Asian,VGG-Face,eye_occlusion,0.910130321713971
-Southeast Asian,ArcFace,eye_occlusion,0.06231369524741231
-Southeast Asian,VGG-Face,eye_occlusion,0.25354568207730355
-Black,ArcFace,eye_occlusion,0.8647344190779412
-Black,VGG-Face,eye_occlusion,0.847227449090632
-Black,ArcFace,eye_occlusion,0.8408204016460218
-Black,VGG-Face,eye_occlusion,0.7200034641534329
-Black,ArcFace,eye_occlusion,0.9077139699705393
-Black,VGG-Face,eye_occlusion,0.9631710166812523
-Black,ArcFace,eye_occlusion,0.9997878183972297
-Black,VGG-Face,eye_occlusion,0.9998601454958913
-Black,ArcFace,eye_occlusion,0.3633765129425351
-Black,VGG-Face,eye_occlusion,0.6469609443848141
-Black,ArcFace,eye_occlusion,0.9123258459644569
-Black,VGG-Face,eye_occlusion,0.8594773983864715
-Black,ArcFace,eye_occlusion,0.9894144950835916
-Black,VGG-Face,eye_occlusion,0.8371890974980566
-Black,ArcFace,eye_occlusion,0.9076818533576396
-Black,VGG-Face,eye_occlusion,0.9265651233998681
-Black,ArcFace,eye_occlusion,0.9514137417829032
-Black,VGG-Face,eye_occlusion,0.9365527388831397
-Black,ArcFace,eye_occlusion,0.9293618682452964
-Black,VGG-Face,eye_occlusion,0.8940413995794472
+race,gender,model,perturbation,severity,similarity
+East Asian,Male,Facenet,eye_occlusion,high,0.942886130565509
+East Asian,Male,Facenet,gaussian_noise,15,0.6624843031400758
+East Asian,Male,Facenet,gaussian_blur,7,0.9271350975981186
+East Asian,Male,Facenet,gamma_correction,0.5,0.35018253831002627
+East Asian,Male,ArcFace,eye_occlusion,high,0.8848684928769166
+East Asian,Male,ArcFace,gaussian_noise,15,0.7943217080081497
+East Asian,Male,ArcFace,gaussian_blur,7,0.9869115021390451
+East Asian,Male,ArcFace,gamma_correction,0.5,0.5558148011684566
+East Asian,Male,VGG-Face,eye_occlusion,high,0.7352908446136676
+East Asian,Male,VGG-Face,gaussian_noise,15,0.8530156793913019
+East Asian,Male,VGG-Face,gaussian_blur,7,0.9875314709820735
+East Asian,Male,VGG-Face,gamma_correction,0.5,0.8366457297940719
+Indian,Female,Facenet,eye_occlusion,high,0.8312111499223477
+Indian,Female,Facenet,gaussian_noise,15,0.8090433740162416
+Indian,Female,Facenet,gaussian_blur,7,0.9601485833816084
+Indian,Female,Facenet,gamma_correction,0.5,0.8574746372199721
+Indian,Female,ArcFace,eye_occlusion,high,0.8836009385575747
+Indian,Female,ArcFace,gaussian_noise,15,0.720032860740531
+Indian,Female,ArcFace,gaussian_blur,7,0.9782436584583888
+Indian,Female,ArcFace,gamma_correction,0.5,0.8018170158161956
+Indian,Female,VGG-Face,eye_occlusion,high,0.7723614144808736
+Indian,Female,VGG-Face,gaussian_noise,15,0.8399068741994705
+Indian,Female,VGG-Face,gaussian_blur,7,0.9872500279632163
+Indian,Female,VGG-Face,gamma_correction,0.5,0.7739807325617514
+White,Female,Facenet,eye_occlusion,high,0.9752855118112947
+White,Female,Facenet,gaussian_noise,15,0.9719398754216777
+White,Female,Facenet,gaussian_blur,7,0.9783439795249189
+White,Female,Facenet,gamma_correction,0.5,0.8917302861355663
+White,Female,ArcFace,eye_occlusion,high,0.9108878161940874
+White,Female,ArcFace,gaussian_noise,15,0.9290006325000223
+White,Female,ArcFace,gaussian_blur,7,0.9665631465904884
+White,Female,ArcFace,gamma_correction,0.5,0.9304651735507565
+White,Female,VGG-Face,eye_occlusion,high,0.7958999311092156
+White,Female,VGG-Face,gaussian_noise,15,0.9297921968439841
+White,Female,VGG-Face,gaussian_blur,7,0.9821385255190956
+White,Female,VGG-Face,gamma_correction,0.5,0.8214289911496526
+Middle Eastern,Male,Facenet,eye_occlusion,high,0.9157127297891895
+Middle Eastern,Male,Facenet,gaussian_noise,15,0.9031125665420331
+Middle Eastern,Male,Facenet,gaussian_blur,7,0.9601507950884239
+Middle Eastern,Male,Facenet,gamma_correction,0.5,0.31569102681107153
+Middle Eastern,Male,ArcFace,eye_occlusion,high,0.939713060800125
+Middle Eastern,Male,ArcFace,gaussian_noise,15,0.9131651882137304
+Middle Eastern,Male,ArcFace,gaussian_blur,7,0.972641852722362
+Middle Eastern,Male,ArcFace,gamma_correction,0.5,0.9044632875199402
+Middle Eastern,Male,VGG-Face,eye_occlusion,high,0.8001024851026731
+Middle Eastern,Male,VGG-Face,gaussian_noise,15,0.9048583730711783
+Middle Eastern,Male,VGG-Face,gaussian_blur,7,0.9812442714819426
+Middle Eastern,Male,VGG-Face,gamma_correction,0.5,0.9204312606946407
+White,Female,Facenet,eye_occlusion,high,0.9954590187019074
+White,Female,Facenet,gaussian_noise,15,0.9727347205401689
+White,Female,Facenet,gaussian_blur,7,0.99040123599144
+White,Female,Facenet,gamma_correction,0.5,0.9890382696564731
+White,Female,ArcFace,eye_occlusion,high,0.999405451340842
+White,Female,ArcFace,gaussian_noise,15,0.997158330907591
+White,Female,ArcFace,gaussian_blur,7,0.9989415006270235
+White,Female,ArcFace,gamma_correction,0.5,0.9983952491691278
+White,Female,VGG-Face,eye_occlusion,high,0.9928903125310804
+White,Female,VGG-Face,gaussian_noise,15,0.9370179543360712
+White,Female,VGG-Face,gaussian_blur,7,0.9879156963236133
+White,Female,VGG-Face,gamma_correction,0.5,0.8528588129137613
+Southeast Asian,Female,Facenet,eye_occlusion,high,0.9191459151283962
+Southeast Asian,Female,Facenet,gaussian_noise,15,0.9880090003663922
+Southeast Asian,Female,Facenet,gaussian_blur,7,0.30045160902028545
+Southeast Asian,Female,Facenet,gamma_correction,0.5,0.8868935789652059
+Southeast Asian,Female,ArcFace,eye_occlusion,high,0.8938642596159407
+Southeast Asian,Female,ArcFace,gaussian_noise,15,0.9267295727177273
+Southeast Asian,Female,ArcFace,gaussian_blur,7,-0.013990668150761425
+Southeast Asian,Female,ArcFace,gamma_correction,0.5,0.9215871138858586
+Southeast Asian,Female,VGG-Face,eye_occlusion,high,0.8136360402276932
+Southeast Asian,Female,VGG-Face,gaussian_noise,15,0.9710034326625915
+Southeast Asian,Female,VGG-Face,gaussian_blur,7,0.03380092054829829
+Southeast Asian,Female,VGG-Face,gamma_correction,0.5,0.739629962664408
+White,Female,Facenet,eye_occlusion,high,0.8639570156017727
+White,Female,Facenet,gaussian_noise,15,0.8394237829354056
+White,Female,Facenet,gaussian_blur,7,0.8858334700364665
+White,Female,Facenet,gamma_correction,0.5,0.7399554331195729
+White,Female,ArcFace,eye_occlusion,high,0.9440669426719973
+White,Female,ArcFace,gaussian_noise,15,0.9295405226997848
+White,Female,ArcFace,gaussian_blur,7,0.9744194036324852
+White,Female,ArcFace,gamma_correction,0.5,0.9715165246648332
+White,Female,VGG-Face,eye_occlusion,high,0.7612320034623723
+White,Female,VGG-Face,gaussian_noise,15,0.9270332598518497
+White,Female,VGG-Face,gaussian_blur,7,0.9343461487019222
+White,Female,VGG-Face,gamma_correction,0.5,0.8951154510665431
+White,Male,Facenet,eye_occlusion,high,0.8257803864303521
+White,Male,Facenet,gaussian_noise,15,0.8887878588684163
+White,Male,Facenet,gaussian_blur,7,0.9299136841213611
+White,Male,Facenet,gamma_correction,0.5,0.880537761905807
+White,Male,ArcFace,eye_occlusion,high,0.5964268366256463
+White,Male,ArcFace,gaussian_noise,15,0.6163944900645453
+White,Male,ArcFace,gaussian_blur,7,0.9696121212046275
+White,Male,ArcFace,gamma_correction,0.5,0.669637712357609
+White,Male,VGG-Face,eye_occlusion,high,0.7976734171063584
+White,Male,VGG-Face,gaussian_noise,15,0.7114117603109311
+White,Male,VGG-Face,gaussian_blur,7,0.9796047762166933
+White,Male,VGG-Face,gamma_correction,0.5,0.8580607896441523
+Indian,Female,Facenet,eye_occlusion,high,0.7581853018486303
+Indian,Female,Facenet,gaussian_noise,15,0.9652450652444938
+Indian,Female,Facenet,gaussian_blur,7,0.9930913347864683
+Indian,Female,Facenet,gamma_correction,0.5,0.9220682659829453
+Indian,Female,ArcFace,eye_occlusion,high,0.998647278330681
+Indian,Female,ArcFace,gaussian_noise,15,0.9957931225660422
+Indian,Female,ArcFace,gaussian_blur,7,0.9994986879866967
+Indian,Female,ArcFace,gamma_correction,0.5,0.9924325728083033
+Indian,Female,VGG-Face,eye_occlusion,high,0.9069271438967255
+Indian,Female,VGG-Face,gaussian_noise,15,0.8194798949036851
+Indian,Female,VGG-Face,gaussian_blur,7,0.9904779272732527
+Indian,Female,VGG-Face,gamma_correction,0.5,0.7379391765278068
+East Asian,Male,Facenet,eye_occlusion,high,0.9665910937456756
+East Asian,Male,Facenet,gaussian_noise,15,0.9746074605374333
+East Asian,Male,Facenet,gaussian_blur,7,0.9981072496542815
+East Asian,Male,Facenet,gamma_correction,0.5,0.9925680720231975
+East Asian,Male,ArcFace,eye_occlusion,high,0.9954163238761816
+East Asian,Male,ArcFace,gaussian_noise,15,0.9915282303849938
+East Asian,Male,ArcFace,gaussian_blur,7,0.9992911703534827
+East Asian,Male,ArcFace,gamma_correction,0.5,0.999547434367502
+East Asian,Male,VGG-Face,eye_occlusion,high,0.8902233698199903
+East Asian,Male,VGG-Face,gaussian_noise,15,0.9295147237860263
+East Asian,Male,VGG-Face,gaussian_blur,7,0.9961385162077666
+East Asian,Male,VGG-Face,gamma_correction,0.5,0.9605427740802278
+Indian,Female,Facenet,eye_occlusion,high,0.9944659685908961
+Indian,Female,Facenet,gaussian_noise,15,0.926858017649902
+Indian,Female,Facenet,gaussian_blur,7,0.9929631566242582
+Indian,Female,Facenet,gamma_correction,0.5,0.9032974635887664
+Indian,Female,ArcFace,eye_occlusion,high,0.9881402542131847
+Indian,Female,ArcFace,gaussian_noise,15,0.6886989902456995
+Indian,Female,ArcFace,gaussian_blur,7,0.9785853858462423
+Indian,Female,ArcFace,gamma_correction,0.5,0.5427839005798046
+Indian,Female,VGG-Face,eye_occlusion,high,0.9880714836657775
+Indian,Female,VGG-Face,gaussian_noise,15,0.7552149641304315
+Indian,Female,VGG-Face,gaussian_blur,7,0.9942568834920227
+Indian,Female,VGG-Face,gamma_correction,0.5,0.6932818592158279
+Southeast Asian,Male,Facenet,eye_occlusion,high,0.8649473668764254
+Southeast Asian,Male,Facenet,gaussian_noise,15,0.9657542113592265
+Southeast Asian,Male,Facenet,gaussian_blur,7,0.9686268104969494
+Southeast Asian,Male,Facenet,gamma_correction,0.5,0.7794149021627245
+Southeast Asian,Male,ArcFace,eye_occlusion,high,0.8916941439589368
+Southeast Asian,Male,ArcFace,gaussian_noise,15,0.922498405128969
+Southeast Asian,Male,ArcFace,gaussian_blur,7,0.9671542845684646
+Southeast Asian,Male,ArcFace,gamma_correction,0.5,0.8669423123057313
+Southeast Asian,Male,VGG-Face,eye_occlusion,high,0.9357024512156913
+Southeast Asian,Male,VGG-Face,gaussian_noise,15,0.9591623989893524
+Southeast Asian,Male,VGG-Face,gaussian_blur,7,0.978714694560901
+Southeast Asian,Male,VGG-Face,gamma_correction,0.5,0.9250773050653586
+Indian,Male,Facenet,eye_occlusion,high,0.9178375529990146
+Indian,Male,Facenet,gaussian_noise,15,0.968963998122666
+Indian,Male,Facenet,gaussian_blur,7,0.9613686494786211
+Indian,Male,Facenet,gamma_correction,0.5,0.875580862048507
+Indian,Male,ArcFace,eye_occlusion,high,0.8486532785543328
+Indian,Male,ArcFace,gaussian_noise,15,0.9185077839171103
+Indian,Male,ArcFace,gaussian_blur,7,0.9750614080736837
+Indian,Male,ArcFace,gamma_correction,0.5,0.945081405168998
+Indian,Male,VGG-Face,eye_occlusion,high,0.7582646543788227
+Indian,Male,VGG-Face,gaussian_noise,15,0.9194163002395456
+Indian,Male,VGG-Face,gaussian_blur,7,0.9755132062838967
+Indian,Male,VGG-Face,gamma_correction,0.5,0.9284822897827179
+Black,Male,Facenet,eye_occlusion,high,0.9195093892478109
+Black,Male,Facenet,gaussian_noise,15,0.914182532992806
+Black,Male,Facenet,gaussian_blur,7,0.9223794813587634
+Black,Male,Facenet,gamma_correction,0.5,0.8939010942053202
+Black,Male,ArcFace,eye_occlusion,high,0.9835947171171544
+Black,Male,ArcFace,gaussian_noise,15,0.953836704302158
+Black,Male,ArcFace,gaussian_blur,7,0.9903045872622454
+Black,Male,ArcFace,gamma_correction,0.5,0.9428777163344422
+Black,Male,VGG-Face,eye_occlusion,high,0.9052065813332528
+Black,Male,VGG-Face,gaussian_noise,15,0.8743880253034783
+Black,Male,VGG-Face,gaussian_blur,7,0.9888309424160918
+Black,Male,VGG-Face,gamma_correction,0.5,0.8492984822457283
+Southeast Asian,Female,Facenet,eye_occlusion,high,0.6314832097188063
+Southeast Asian,Female,Facenet,gaussian_noise,15,0.8382650487213302
+Southeast Asian,Female,Facenet,gaussian_blur,7,0.9866237071259545
+Southeast Asian,Female,Facenet,gamma_correction,0.5,0.78945073369795
+Southeast Asian,Female,ArcFace,eye_occlusion,high,0.6295924193783768
+Southeast Asian,Female,ArcFace,gaussian_noise,15,0.9035942208301749
+Southeast Asian,Female,ArcFace,gaussian_blur,7,0.9569741550249745
+Southeast Asian,Female,ArcFace,gamma_correction,0.5,0.767467424270401
+Southeast Asian,Female,VGG-Face,eye_occlusion,high,0.6551956728336802
+Southeast Asian,Female,VGG-Face,gaussian_noise,15,0.9379749126802447
+Southeast Asian,Female,VGG-Face,gaussian_blur,7,0.972099047757724
+Southeast Asian,Female,VGG-Face,gamma_correction,0.5,0.7004806299646006
+Black,Male,Facenet,eye_occlusion,high,0.9054478985112138
+Black,Male,Facenet,gaussian_noise,15,0.8483397921904238
+Black,Male,Facenet,gaussian_blur,7,0.8587825872887771
+Black,Male,Facenet,gamma_correction,0.5,0.6498974613518166
+Black,Male,ArcFace,eye_occlusion,high,0.8042720617284225
+Black,Male,ArcFace,gaussian_noise,15,0.7378790824661143
+Black,Male,ArcFace,gaussian_blur,7,0.8485751273722761
+Black,Male,ArcFace,gamma_correction,0.5,0.18996326203357708
+Black,Male,VGG-Face,eye_occlusion,high,0.8934622314344214
+Black,Male,VGG-Face,gaussian_noise,15,0.7770755472593569
+Black,Male,VGG-Face,gaussian_blur,7,0.9254432560133207
+Black,Male,VGG-Face,gamma_correction,0.5,0.6858727356881313
+Black,Male,Facenet,eye_occlusion,high,0.9652437873399423
+Black,Male,Facenet,gaussian_noise,15,0.9912207028493891
+Black,Male,Facenet,gaussian_blur,7,0.995530015068634
+Black,Male,Facenet,gamma_correction,0.5,0.9386266229249214
+Black,Male,ArcFace,eye_occlusion,high,0.9133885691228923
+Black,Male,ArcFace,gaussian_noise,15,0.9741076036663773
+Black,Male,ArcFace,gaussian_blur,7,0.98494175701699
+Black,Male,ArcFace,gamma_correction,0.5,0.9325797196671382
+Black,Male,VGG-Face,eye_occlusion,high,0.8452012085015073
+Black,Male,VGG-Face,gaussian_noise,15,0.9908965156127825
+Black,Male,VGG-Face,gaussian_blur,7,0.9957172879465501
+Black,Male,VGG-Face,gamma_correction,0.5,0.955910396315179
+Latino_Hispanic,Female,Facenet,eye_occlusion,high,0.9351606789669705
+Latino_Hispanic,Female,Facenet,gaussian_noise,15,0.8615759570005843
+Latino_Hispanic,Female,Facenet,gaussian_blur,7,0.9598102722859698
+Latino_Hispanic,Female,Facenet,gamma_correction,0.5,0.5142019345591277
+Latino_Hispanic,Female,ArcFace,eye_occlusion,high,0.9612986144912339
+Latino_Hispanic,Female,ArcFace,gaussian_noise,15,0.6566957025218032
+Latino_Hispanic,Female,ArcFace,gaussian_blur,7,0.9749916030980399
+Latino_Hispanic,Female,ArcFace,gamma_correction,0.5,0.9622627532319975
+Latino_Hispanic,Female,VGG-Face,eye_occlusion,high,0.9126256840624464
+Latino_Hispanic,Female,VGG-Face,gaussian_noise,15,0.8510806757383925
+Latino_Hispanic,Female,VGG-Face,gaussian_blur,7,0.9732948529897376
+Latino_Hispanic,Female,VGG-Face,gamma_correction,0.5,0.90802989323068
+White,Female,Facenet,eye_occlusion,high,0.34733679953680696
+White,Female,Facenet,gaussian_noise,15,0.9022690093406323
+White,Female,Facenet,gaussian_blur,7,0.19146133096872345
+White,Female,Facenet,gamma_correction,0.5,0.855283433885146
+White,Female,ArcFace,eye_occlusion,high,0.43805243157001483
+White,Female,ArcFace,gaussian_noise,15,0.8159732660923259
+White,Female,ArcFace,gaussian_blur,7,0.24934058353314853
+White,Female,ArcFace,gamma_correction,0.5,0.8997930005763887
+White,Female,VGG-Face,eye_occlusion,high,0.6793934743830702
+White,Female,VGG-Face,gaussian_noise,15,0.8726981839132201
+White,Female,VGG-Face,gaussian_blur,7,0.3840094986920798
+White,Female,VGG-Face,gamma_correction,0.5,0.8946171284442564
+White,Female,Facenet,eye_occlusion,high,0.9712121905074258
+White,Female,Facenet,gaussian_noise,15,0.9708261928414115
+White,Female,Facenet,gaussian_blur,7,0.9741613876085574
+White,Female,Facenet,gamma_correction,0.5,0.5973870212348135
+White,Female,ArcFace,eye_occlusion,high,0.9229588696197096
+White,Female,ArcFace,gaussian_noise,15,0.9359620543592735
+White,Female,ArcFace,gaussian_blur,7,0.9419920069190507
+White,Female,ArcFace,gamma_correction,0.5,0.46132980738050017
+White,Female,VGG-Face,eye_occlusion,high,0.9752839634385744
+White,Female,VGG-Face,gaussian_noise,15,0.975605811178769
+White,Female,VGG-Face,gaussian_blur,7,0.9914842692324278
+White,Female,VGG-Face,gamma_correction,0.5,0.6049425885145431
+Middle Eastern,Female,Facenet,eye_occlusion,high,0.8202244374941244
+Middle Eastern,Female,Facenet,gaussian_noise,15,0.773599366190074
+Middle Eastern,Female,Facenet,gaussian_blur,7,0.7946993871711726
+Middle Eastern,Female,Facenet,gamma_correction,0.5,0.5105213589461495
+Middle Eastern,Female,ArcFace,eye_occlusion,high,0.8667766089804116
+Middle Eastern,Female,ArcFace,gaussian_noise,15,0.6600831160763704
+Middle Eastern,Female,ArcFace,gaussian_blur,7,0.7992490172692183
+Middle Eastern,Female,ArcFace,gamma_correction,0.5,0.7224762879239807
+Middle Eastern,Female,VGG-Face,eye_occlusion,high,0.8309546936982668
+Middle Eastern,Female,VGG-Face,gaussian_noise,15,0.8122820544502795
+Middle Eastern,Female,VGG-Face,gaussian_blur,7,0.7798212242177773
+Middle Eastern,Female,VGG-Face,gamma_correction,0.5,0.6947887971964118
+White,Male,Facenet,eye_occlusion,high,0.9797861518090043
+White,Male,Facenet,gaussian_noise,15,0.945767171275034
+White,Male,Facenet,gaussian_blur,7,0.9911409678679858
+White,Male,Facenet,gamma_correction,0.5,0.9787095075878942
+White,Male,ArcFace,eye_occlusion,high,0.9914515355340721
+White,Male,ArcFace,gaussian_noise,15,0.9821643455233848
+White,Male,ArcFace,gaussian_blur,7,0.9981096704089506
+White,Male,ArcFace,gamma_correction,0.5,0.9966568323258272
+White,Male,VGG-Face,eye_occlusion,high,0.9589876839139961
+White,Male,VGG-Face,gaussian_noise,15,0.9378540134647108
+White,Male,VGG-Face,gaussian_blur,7,0.99151814276307
+White,Male,VGG-Face,gamma_correction,0.5,0.9430537066387343
+Middle Eastern,Female,Facenet,eye_occlusion,high,0.9678738733279921
+Middle Eastern,Female,Facenet,gaussian_noise,15,0.964788252218321
+Middle Eastern,Female,Facenet,gaussian_blur,7,0.9933705211770926
+Middle Eastern,Female,Facenet,gamma_correction,0.5,0.9740178645818288
+Middle Eastern,Female,ArcFace,eye_occlusion,high,0.9989463708322729
+Middle Eastern,Female,ArcFace,gaussian_noise,15,0.9982303150313973
+Middle Eastern,Female,ArcFace,gaussian_blur,7,0.9993960673814594
+Middle Eastern,Female,ArcFace,gamma_correction,0.5,0.9994787592493192
+Middle Eastern,Female,VGG-Face,eye_occlusion,high,0.9861686461993444
+Middle Eastern,Female,VGG-Face,gaussian_noise,15,0.9603972721581254
+Middle Eastern,Female,VGG-Face,gaussian_blur,7,0.9948637064908358
+Middle Eastern,Female,VGG-Face,gamma_correction,0.5,0.9006934243232354
+Latino_Hispanic,Female,Facenet,eye_occlusion,high,0.9271231863247295
+Latino_Hispanic,Female,Facenet,gaussian_noise,15,0.9808004316045067
+Latino_Hispanic,Female,Facenet,gaussian_blur,7,0.9958988599300225
+Latino_Hispanic,Female,Facenet,gamma_correction,0.5,0.9306699701150367
+Latino_Hispanic,Female,ArcFace,eye_occlusion,high,0.9270695038361552
+Latino_Hispanic,Female,ArcFace,gaussian_noise,15,0.9419098410876232
+Latino_Hispanic,Female,ArcFace,gaussian_blur,7,0.9893837498652888
+Latino_Hispanic,Female,ArcFace,gamma_correction,0.5,0.9454116727447216
+Latino_Hispanic,Female,VGG-Face,eye_occlusion,high,0.8049072404926536
+Latino_Hispanic,Female,VGG-Face,gaussian_noise,15,0.9807617474277156
+Latino_Hispanic,Female,VGG-Face,gaussian_blur,7,0.9966041081559176
+Latino_Hispanic,Female,VGG-Face,gamma_correction,0.5,0.8704743731127682
+East Asian,Female,Facenet,eye_occlusion,high,0.9205180647948462
+East Asian,Female,Facenet,gaussian_noise,15,0.9159692134331548
+East Asian,Female,Facenet,gaussian_blur,7,0.689295477994332
+East Asian,Female,Facenet,gamma_correction,0.5,0.8666055024521924
+East Asian,Female,ArcFace,eye_occlusion,high,0.8091584986579385
+East Asian,Female,ArcFace,gaussian_noise,15,0.855777596216488
+East Asian,Female,ArcFace,gaussian_blur,7,0.902526827736554
+East Asian,Female,ArcFace,gamma_correction,0.5,0.9262303479586239
+East Asian,Female,VGG-Face,eye_occlusion,high,0.7141445592511747
+East Asian,Female,VGG-Face,gaussian_noise,15,0.8346366196522926
+East Asian,Female,VGG-Face,gaussian_blur,7,0.9473265018535254
+East Asian,Female,VGG-Face,gamma_correction,0.5,0.9356527659251294
+Black,Female,Facenet,eye_occlusion,high,0.9994884431971196
+Black,Female,Facenet,gaussian_noise,15,0.9522634339860876
+Black,Female,Facenet,gaussian_blur,7,0.9742217762271839
+Black,Female,Facenet,gamma_correction,0.5,0.8353519266822085
+Black,Female,ArcFace,eye_occlusion,high,0.9968702436667929
+Black,Female,ArcFace,gaussian_noise,15,0.9612101050630445
+Black,Female,ArcFace,gaussian_blur,7,0.9794838798294415
+Black,Female,ArcFace,gamma_correction,0.5,0.9714293947109182
+Black,Female,VGG-Face,eye_occlusion,high,0.9979047758090375
+Black,Female,VGG-Face,gaussian_noise,15,0.9789879893576542
+Black,Female,VGG-Face,gaussian_blur,7,0.9896200589037427
+Black,Female,VGG-Face,gamma_correction,0.5,0.9453050837644967
+East Asian,Male,Facenet,eye_occlusion,high,0.9136591890094101
+East Asian,Male,Facenet,gaussian_noise,15,0.8843843463869817
+East Asian,Male,Facenet,gaussian_blur,7,0.9814346110437256
+East Asian,Male,Facenet,gamma_correction,0.5,0.4849726894207442
+East Asian,Male,ArcFace,eye_occlusion,high,0.8914252537639467
+East Asian,Male,ArcFace,gaussian_noise,15,0.9424684707445146
+East Asian,Male,ArcFace,gaussian_blur,7,0.9747866229997372
+East Asian,Male,ArcFace,gamma_correction,0.5,0.9090889358302879
+East Asian,Male,VGG-Face,eye_occlusion,high,0.7276529543352236
+East Asian,Male,VGG-Face,gaussian_noise,15,0.8929325714126208
+East Asian,Male,VGG-Face,gaussian_blur,7,0.983597175600234
+East Asian,Male,VGG-Face,gamma_correction,0.5,0.88838269034335
+East Asian,Male,Facenet,eye_occlusion,high,0.9911663489383927
+East Asian,Male,Facenet,gaussian_noise,15,0.9756988440558454
+East Asian,Male,Facenet,gaussian_blur,7,0.9954896539066274
+East Asian,Male,Facenet,gamma_correction,0.5,0.9941089833369531
+East Asian,Male,ArcFace,eye_occlusion,high,0.9966109605607398
+East Asian,Male,ArcFace,gaussian_noise,15,0.9936139101211365
+East Asian,Male,ArcFace,gaussian_blur,7,0.9989499767039475
+East Asian,Male,ArcFace,gamma_correction,0.5,0.9983594530060261
+East Asian,Male,VGG-Face,eye_occlusion,high,0.8934301391339101
+East Asian,Male,VGG-Face,gaussian_noise,15,0.9279516756755585
+East Asian,Male,VGG-Face,gaussian_blur,7,0.987606182334388
+East Asian,Male,VGG-Face,gamma_correction,0.5,0.8772075729155603
+Indian,Male,Facenet,eye_occlusion,high,0.8117811646158484
+Indian,Male,Facenet,gaussian_noise,15,0.9590212299645141
+Indian,Male,Facenet,gaussian_blur,7,0.9896765240668363
+Indian,Male,Facenet,gamma_correction,0.5,0.49619232799234503
+Indian,Male,ArcFace,eye_occlusion,high,0.9179294226867667
+Indian,Male,ArcFace,gaussian_noise,15,0.8967509246719902
+Indian,Male,ArcFace,gaussian_blur,7,0.9924075538115354
+Indian,Male,ArcFace,gamma_correction,0.5,0.959999599856447
+Indian,Male,VGG-Face,eye_occlusion,high,0.7276905636926982
+Indian,Male,VGG-Face,gaussian_noise,15,0.9370601802709145
+Indian,Male,VGG-Face,gaussian_blur,7,0.9914427289314135
+Indian,Male,VGG-Face,gamma_correction,0.5,0.9447358408721898
+Middle Eastern,Male,Facenet,eye_occlusion,high,0.8604905364090103
+Middle Eastern,Male,Facenet,gaussian_noise,15,0.9010090207491405
+Middle Eastern,Male,Facenet,gaussian_blur,7,0.974070687331899
+Middle Eastern,Male,Facenet,gamma_correction,0.5,0.8769237460593928
+Middle Eastern,Male,ArcFace,eye_occlusion,high,0.9138847270630137
+Middle Eastern,Male,ArcFace,gaussian_noise,15,0.9016468908460779
+Middle Eastern,Male,ArcFace,gaussian_blur,7,0.9899815028187952
+Middle Eastern,Male,ArcFace,gamma_correction,0.5,0.9820543206465883
+Middle Eastern,Male,VGG-Face,eye_occlusion,high,0.9659232649792464
+Middle Eastern,Male,VGG-Face,gaussian_noise,15,0.9637187085803084
+Middle Eastern,Male,VGG-Face,gaussian_blur,7,0.9970797926046003
+Middle Eastern,Male,VGG-Face,gamma_correction,0.5,0.9471400910156964
+Black,Female,Facenet,eye_occlusion,high,0.914645838841896
+Black,Female,Facenet,gaussian_noise,15,0.8302890287365763
+Black,Female,Facenet,gaussian_blur,7,0.9164210656658884
+Black,Female,Facenet,gamma_correction,0.5,0.5269861166351087
+Black,Female,ArcFace,eye_occlusion,high,0.9657092308830927
+Black,Female,ArcFace,gaussian_noise,15,0.9027042284797905
+Black,Female,ArcFace,gaussian_blur,7,0.9851123772304188
+Black,Female,ArcFace,gamma_correction,0.5,0.9162152365898514
+Black,Female,VGG-Face,eye_occlusion,high,0.9781625740198905
+Black,Female,VGG-Face,gaussian_noise,15,0.9130377034085184
+Black,Female,VGG-Face,gaussian_blur,7,0.9915962258724696
+Black,Female,VGG-Face,gamma_correction,0.5,0.7677959166028085
+Latino_Hispanic,Male,Facenet,eye_occlusion,high,0.99100352710355
+Latino_Hispanic,Male,Facenet,gaussian_noise,15,0.9611203787148793
+Latino_Hispanic,Male,Facenet,gaussian_blur,7,0.9911524175569271
+Latino_Hispanic,Male,Facenet,gamma_correction,0.5,0.880009028294231
+Latino_Hispanic,Male,ArcFace,eye_occlusion,high,0.9712001935904759
+Latino_Hispanic,Male,ArcFace,gaussian_noise,15,0.913591365519387
+Latino_Hispanic,Male,ArcFace,gaussian_blur,7,0.9801886077556197
+Latino_Hispanic,Male,ArcFace,gamma_correction,0.5,0.9310225627091747
+Latino_Hispanic,Male,VGG-Face,eye_occlusion,high,0.9682847969191041
+Latino_Hispanic,Male,VGG-Face,gaussian_noise,15,0.9250467305988623
+Latino_Hispanic,Male,VGG-Face,gaussian_blur,7,0.9757447583006577
+Latino_Hispanic,Male,VGG-Face,gamma_correction,0.5,0.8901370433108788
+Middle Eastern,Male,Facenet,eye_occlusion,high,0.9907907836121198
+Middle Eastern,Male,Facenet,gaussian_noise,15,0.9495886642292973
+Middle Eastern,Male,Facenet,gaussian_blur,7,0.994073788615877
+Middle Eastern,Male,Facenet,gamma_correction,0.5,0.94961620752603
+Middle Eastern,Male,ArcFace,eye_occlusion,high,0.9891551915378154
+Middle Eastern,Male,ArcFace,gaussian_noise,15,0.9777430727233546
+Middle Eastern,Male,ArcFace,gaussian_blur,7,0.995220660955186
+Middle Eastern,Male,ArcFace,gamma_correction,0.5,0.9824883156312226
+Middle Eastern,Male,VGG-Face,eye_occlusion,high,0.9557698068473647
+Middle Eastern,Male,VGG-Face,gaussian_noise,15,0.8826520757443878
+Middle Eastern,Male,VGG-Face,gaussian_blur,7,0.9954599778136214
+Middle Eastern,Male,VGG-Face,gamma_correction,0.5,0.9148391288353015
+Indian,Male,Facenet,eye_occlusion,high,0.9574268483418517
+Indian,Male,Facenet,gaussian_noise,15,0.8784044964895609
+Indian,Male,Facenet,gaussian_blur,7,0.9951222150598737
+Indian,Male,Facenet,gamma_correction,0.5,0.9579524194909178
+Indian,Male,ArcFace,eye_occlusion,high,0.9914668599547323
+Indian,Male,ArcFace,gaussian_noise,15,0.9870103423350525
+Indian,Male,ArcFace,gaussian_blur,7,0.998854123408489
+Indian,Male,ArcFace,gamma_correction,0.5,0.9939931355331986
+Indian,Male,VGG-Face,eye_occlusion,high,0.8298025383825254
+Indian,Male,VGG-Face,gaussian_noise,15,0.9412506632244956
+Indian,Male,VGG-Face,gaussian_blur,7,0.9962892450196456
+Indian,Male,VGG-Face,gamma_correction,0.5,0.8575379297106888
+Latino_Hispanic,Male,Facenet,eye_occlusion,high,0.8552834869898104
+Latino_Hispanic,Male,Facenet,gaussian_noise,15,0.9833233341541849
+Latino_Hispanic,Male,Facenet,gaussian_blur,7,0.9775526318267537
+Latino_Hispanic,Male,Facenet,gamma_correction,0.5,0.9866945873375053
+Latino_Hispanic,Male,ArcFace,eye_occlusion,high,0.8310932376489626
+Latino_Hispanic,Male,ArcFace,gaussian_noise,15,0.9111208694478151
+Latino_Hispanic,Male,ArcFace,gaussian_blur,7,0.9746133809084148
+Latino_Hispanic,Male,ArcFace,gamma_correction,0.5,0.9541519620006205
+Latino_Hispanic,Male,VGG-Face,eye_occlusion,high,0.864484405435969
+Latino_Hispanic,Male,VGG-Face,gaussian_noise,15,0.9737512235426325
+Latino_Hispanic,Male,VGG-Face,gaussian_blur,7,0.9877873240971391
+Latino_Hispanic,Male,VGG-Face,gamma_correction,0.5,0.9500254854177023
+Indian,Male,Facenet,eye_occlusion,high,0.6825854843349635
+Indian,Male,Facenet,gaussian_noise,15,0.7103813164710653
+Indian,Male,Facenet,gaussian_blur,7,0.9741544442454547
+Indian,Male,Facenet,gamma_correction,0.5,0.564944533707072
+Indian,Male,ArcFace,eye_occlusion,high,0.8583623442297384
+Indian,Male,ArcFace,gaussian_noise,15,0.6999554652707888
+Indian,Male,ArcFace,gaussian_blur,7,0.9697442225688452
+Indian,Male,ArcFace,gamma_correction,0.5,0.5468058861748076
+Indian,Male,VGG-Face,eye_occlusion,high,0.8164577725048677
+Indian,Male,VGG-Face,gaussian_noise,15,0.8914260054663871
+Indian,Male,VGG-Face,gaussian_blur,7,0.9942637848790126
+Indian,Male,VGG-Face,gamma_correction,0.5,0.6011174452291461
+Indian,Female,Facenet,eye_occlusion,high,0.8656026513941478
+Indian,Female,Facenet,gaussian_noise,15,0.7115190899361906
+Indian,Female,Facenet,gaussian_blur,7,0.8197384729350641
+Indian,Female,Facenet,gamma_correction,0.5,0.7206029838448712
+Indian,Female,ArcFace,eye_occlusion,high,0.6728121368642184
+Indian,Female,ArcFace,gaussian_noise,15,0.49381933841477943
+Indian,Female,ArcFace,gaussian_blur,7,0.7389952069252791
+Indian,Female,ArcFace,gamma_correction,0.5,0.9265860596099712
+Indian,Female,VGG-Face,eye_occlusion,high,0.7583295741986409
+Indian,Female,VGG-Face,gaussian_noise,15,0.816652560944505
+Indian,Female,VGG-Face,gaussian_blur,7,0.8343326980861231
+Indian,Female,VGG-Face,gamma_correction,0.5,0.9082665446063665
+Black,Male,Facenet,eye_occlusion,high,0.9226022634131843
+Black,Male,Facenet,gaussian_noise,15,0.8183706479467624
+Black,Male,Facenet,gaussian_blur,7,0.9475100193525837
+Black,Male,Facenet,gamma_correction,0.5,0.5713494862541936
+Black,Male,ArcFace,eye_occlusion,high,0.9600980805599589
+Black,Male,ArcFace,gaussian_noise,15,0.9246032066287251
+Black,Male,ArcFace,gaussian_blur,7,0.9860311704818974
+Black,Male,ArcFace,gamma_correction,0.5,0.9599978969817534
+Black,Male,VGG-Face,eye_occlusion,high,0.9644684016747542
+Black,Male,VGG-Face,gaussian_noise,15,0.913363675089499
+Black,Male,VGG-Face,gaussian_blur,7,0.990509340060053
+Black,Male,VGG-Face,gamma_correction,0.5,0.9386439571390615
+Southeast Asian,Female,Facenet,eye_occlusion,high,0.389153577568274
+Southeast Asian,Female,Facenet,gaussian_noise,15,0.5386285315267674
+Southeast Asian,Female,Facenet,gaussian_blur,7,0.749003476059702
+Southeast Asian,Female,Facenet,gamma_correction,0.5,0.3726587577150492
+Southeast Asian,Female,ArcFace,eye_occlusion,high,0.05276390350884624
+Southeast Asian,Female,ArcFace,gaussian_noise,15,0.7952942173349272
+Southeast Asian,Female,ArcFace,gaussian_blur,7,0.9840073621859398
+Southeast Asian,Female,ArcFace,gamma_correction,0.5,0.4692198172620572
+Southeast Asian,Female,VGG-Face,eye_occlusion,high,0.10151640112995057
+Southeast Asian,Female,VGG-Face,gaussian_noise,15,0.8501559495450717
+Southeast Asian,Female,VGG-Face,gaussian_blur,7,0.9859573908916791
+Southeast Asian,Female,VGG-Face,gamma_correction,0.5,0.8068976582195558
+Southeast Asian,Female,Facenet,eye_occlusion,high,0.9409992593074736
+Southeast Asian,Female,Facenet,gaussian_noise,15,0.9875201503053262
+Southeast Asian,Female,Facenet,gaussian_blur,7,0.9972117614398941
+Southeast Asian,Female,Facenet,gamma_correction,0.5,0.9587042605717979
+Southeast Asian,Female,ArcFace,eye_occlusion,high,0.9016799048232369
+Southeast Asian,Female,ArcFace,gaussian_noise,15,0.9177888733616919
+Southeast Asian,Female,ArcFace,gaussian_blur,7,0.987688413348333
+Southeast Asian,Female,ArcFace,gamma_correction,0.5,0.9410182518676384
+Southeast Asian,Female,VGG-Face,eye_occlusion,high,0.7364990495357785
+Southeast Asian,Female,VGG-Face,gaussian_noise,15,0.9495507963832449
+Southeast Asian,Female,VGG-Face,gaussian_blur,7,0.993262607294157
+Southeast Asian,Female,VGG-Face,gamma_correction,0.5,0.8365172590573986
+Indian,Female,Facenet,eye_occlusion,high,0.9294586925302875
+Indian,Female,Facenet,gaussian_noise,15,0.9722050739676608
+Indian,Female,Facenet,gaussian_blur,7,0.9793898415937754
+Indian,Female,Facenet,gamma_correction,0.5,0.8979331892742706
+Indian,Female,ArcFace,eye_occlusion,high,0.887779837698872
+Indian,Female,ArcFace,gaussian_noise,15,0.9013349238508196
+Indian,Female,ArcFace,gaussian_blur,7,0.9634833307812573
+Indian,Female,ArcFace,gamma_correction,0.5,0.857064710012167
+Indian,Female,VGG-Face,eye_occlusion,high,0.767441193230638
+Indian,Female,VGG-Face,gaussian_noise,15,0.9626764188172088
+Indian,Female,VGG-Face,gaussian_blur,7,0.9738944758813459
+Indian,Female,VGG-Face,gamma_correction,0.5,0.7299543209725022
+Middle Eastern,Male,Facenet,eye_occlusion,high,0.9365822222284458
+Middle Eastern,Male,Facenet,gaussian_noise,15,0.9786509795865392
+Middle Eastern,Male,Facenet,gaussian_blur,7,0.9852276080497843
+Middle Eastern,Male,Facenet,gamma_correction,0.5,0.9280551505626692
+Middle Eastern,Male,ArcFace,eye_occlusion,high,0.9623313651856661
+Middle Eastern,Male,ArcFace,gaussian_noise,15,0.883442561225346
+Middle Eastern,Male,ArcFace,gaussian_blur,7,0.982124240720152
+Middle Eastern,Male,ArcFace,gamma_correction,0.5,0.9373071391223519
+Middle Eastern,Male,VGG-Face,eye_occlusion,high,0.9489078159822163
+Middle Eastern,Male,VGG-Face,gaussian_noise,15,0.970662613132345
+Middle Eastern,Male,VGG-Face,gaussian_blur,7,0.9816454345020103
+Middle Eastern,Male,VGG-Face,gamma_correction,0.5,0.8846731609139811
+White,Female,Facenet,eye_occlusion,high,0.9975006657120479
+White,Female,Facenet,gaussian_noise,15,0.9616315128893297
+White,Female,Facenet,gaussian_blur,7,0.9985426573183059
+White,Female,Facenet,gamma_correction,0.5,0.9683733875403904
+White,Female,ArcFace,eye_occlusion,high,0.9989401461640889
+White,Female,ArcFace,gaussian_noise,15,0.991254931789939
+White,Female,ArcFace,gaussian_blur,7,0.999237421016342
+White,Female,ArcFace,gamma_correction,0.5,0.9942660369677584
+White,Female,VGG-Face,eye_occlusion,high,0.9941206719364238
+White,Female,VGG-Face,gaussian_noise,15,0.8079049214623952
+White,Female,VGG-Face,gaussian_blur,7,0.9941725053591662
+White,Female,VGG-Face,gamma_correction,0.5,0.8434540604397477
+Southeast Asian,Male,Facenet,eye_occlusion,high,0.993291437386279
+Southeast Asian,Male,Facenet,gaussian_noise,15,0.9820799789839768
+Southeast Asian,Male,Facenet,gaussian_blur,7,0.9983613008743195
+Southeast Asian,Male,Facenet,gamma_correction,0.5,0.9681141558414802
+Southeast Asian,Male,ArcFace,eye_occlusion,high,0.9370721414662293
+Southeast Asian,Male,ArcFace,gaussian_noise,15,0.5972965289218108
+Southeast Asian,Male,ArcFace,gaussian_blur,7,0.9918947779728063
+Southeast Asian,Male,ArcFace,gamma_correction,0.5,0.6011121646277818
+Southeast Asian,Male,VGG-Face,eye_occlusion,high,0.8975363535360426
+Southeast Asian,Male,VGG-Face,gaussian_noise,15,0.834618315556675
+Southeast Asian,Male,VGG-Face,gaussian_blur,7,0.9818274917535145
+Southeast Asian,Male,VGG-Face,gamma_correction,0.5,0.8596804407341084
+White,Female,Facenet,eye_occlusion,high,0.964679398917353
+White,Female,Facenet,gaussian_noise,15,0.979792638685143
+White,Female,Facenet,gaussian_blur,7,0.9603022977862576
+White,Female,Facenet,gamma_correction,0.5,0.7731741884894174
+White,Female,ArcFace,eye_occlusion,high,0.9394023556892196
+White,Female,ArcFace,gaussian_noise,15,0.8786169126558128
+White,Female,ArcFace,gaussian_blur,7,0.9391548024235408
+White,Female,ArcFace,gamma_correction,0.5,0.8536869258107403
+White,Female,VGG-Face,eye_occlusion,high,0.9442530349536419
+White,Female,VGG-Face,gaussian_noise,15,0.9586266296659812
+White,Female,VGG-Face,gaussian_blur,7,0.9547663065554788
+White,Female,VGG-Face,gamma_correction,0.5,0.8373844098546881
+Indian,Female,Facenet,eye_occlusion,high,0.7511462148321014
+Indian,Female,Facenet,gaussian_noise,15,0.861539096819241
+Indian,Female,Facenet,gaussian_blur,7,0.9495054621524582
+Indian,Female,Facenet,gamma_correction,0.5,0.5885942588322939
+Indian,Female,ArcFace,eye_occlusion,high,0.8132674539153705
+Indian,Female,ArcFace,gaussian_noise,15,0.813944930865897
+Indian,Female,ArcFace,gaussian_blur,7,0.9595670983357629
+Indian,Female,ArcFace,gamma_correction,0.5,0.9335328283827306
+Indian,Female,VGG-Face,eye_occlusion,high,0.8990994262728403
+Indian,Female,VGG-Face,gaussian_noise,15,0.8012473066995567
+Indian,Female,VGG-Face,gaussian_blur,7,0.9768018312291515
+Indian,Female,VGG-Face,gamma_correction,0.5,0.8917949571383258
+White,Female,Facenet,eye_occlusion,high,0.8898954577769488
+White,Female,Facenet,gaussian_noise,15,0.9413372828110065
+White,Female,Facenet,gaussian_blur,7,0.9792787412687998
+White,Female,Facenet,gamma_correction,0.5,0.9402024720980667
+White,Female,ArcFace,eye_occlusion,high,0.8595972237832774
+White,Female,ArcFace,gaussian_noise,15,0.907050519891328
+White,Female,ArcFace,gaussian_blur,7,0.9613458114835408
+White,Female,ArcFace,gamma_correction,0.5,0.9621258723174069
+White,Female,VGG-Face,eye_occlusion,high,0.6144242273804795
+White,Female,VGG-Face,gaussian_noise,15,0.8933367877839452
+White,Female,VGG-Face,gaussian_blur,7,0.9356826687250663
+White,Female,VGG-Face,gamma_correction,0.5,0.8336463938619607
+White,Female,Facenet,eye_occlusion,high,0.9941405248615053
+White,Female,Facenet,gaussian_noise,15,0.9738244181972435
+White,Female,Facenet,gaussian_blur,7,0.9979992617147644
+White,Female,Facenet,gamma_correction,0.5,0.9819106241590958
+White,Female,ArcFace,eye_occlusion,high,0.9960617298312562
+White,Female,ArcFace,gaussian_noise,15,0.9853045538612797
+White,Female,ArcFace,gaussian_blur,7,0.9988695445936316
+White,Female,ArcFace,gamma_correction,0.5,0.9973039904741717
+White,Female,VGG-Face,eye_occlusion,high,0.8365381314289253
+White,Female,VGG-Face,gaussian_noise,15,0.917344414729312
+White,Female,VGG-Face,gaussian_blur,7,0.9940507564971443
+White,Female,VGG-Face,gamma_correction,0.5,0.950343364248264
+Indian,Female,Facenet,eye_occlusion,high,0.8084159317906274
+Indian,Female,Facenet,gaussian_noise,15,0.6659349388488561
+Indian,Female,Facenet,gaussian_blur,7,0.6476495313225805
+Indian,Female,Facenet,gamma_correction,0.5,0.3878258906348407
+Indian,Female,ArcFace,eye_occlusion,high,0.7991588681048317
+Indian,Female,ArcFace,gaussian_noise,15,0.7445434067929211
+Indian,Female,ArcFace,gaussian_blur,7,0.9415337021539385
+Indian,Female,ArcFace,gamma_correction,0.5,0.5979482137933041
+Indian,Female,VGG-Face,eye_occlusion,high,0.7665383337482551
+Indian,Female,VGG-Face,gaussian_noise,15,0.7515971636982752
+Indian,Female,VGG-Face,gaussian_blur,7,0.9431963373131823
+Indian,Female,VGG-Face,gamma_correction,0.5,0.754469453279
+White,Female,Facenet,eye_occlusion,high,0.6931652275744035
+White,Female,Facenet,gaussian_noise,15,0.9662268791909855
+White,Female,Facenet,gaussian_blur,7,0.9789007809655632
+White,Female,Facenet,gamma_correction,0.5,0.9568969340387685
+White,Female,ArcFace,eye_occlusion,high,0.7764408060298951
+White,Female,ArcFace,gaussian_noise,15,0.8158044790294329
+White,Female,ArcFace,gaussian_blur,7,0.9594522046856123
+White,Female,ArcFace,gamma_correction,0.5,0.9544857789554098
+White,Female,VGG-Face,eye_occlusion,high,0.5918436446925498
+White,Female,VGG-Face,gaussian_noise,15,0.9285504441350766
+White,Female,VGG-Face,gaussian_blur,7,0.9858532981590385
+White,Female,VGG-Face,gamma_correction,0.5,0.8881550963718556
+Middle Eastern,Female,Facenet,eye_occlusion,high,0.8259627637119347
+Middle Eastern,Female,Facenet,gaussian_noise,15,0.9383238986341736
+Middle Eastern,Female,Facenet,gaussian_blur,7,0.9468415538792072
+Middle Eastern,Female,Facenet,gamma_correction,0.5,0.8943286819358365
+Middle Eastern,Female,ArcFace,eye_occlusion,high,0.8009398459415049
+Middle Eastern,Female,ArcFace,gaussian_noise,15,0.7916798104244692
+Middle Eastern,Female,ArcFace,gaussian_blur,7,0.9671004973730081
+Middle Eastern,Female,ArcFace,gamma_correction,0.5,0.977602460230677
+Middle Eastern,Female,VGG-Face,eye_occlusion,high,0.7481151125181482
+Middle Eastern,Female,VGG-Face,gaussian_noise,15,0.8897871785928023
+Middle Eastern,Female,VGG-Face,gaussian_blur,7,0.9807333737212192
+Middle Eastern,Female,VGG-Face,gamma_correction,0.5,0.9218806183576461
+White,Male,Facenet,eye_occlusion,high,0.9239235631325132
+White,Male,Facenet,gaussian_noise,15,0.9116460027265681
+White,Male,Facenet,gaussian_blur,7,0.9671448249493364
+White,Male,Facenet,gamma_correction,0.5,0.7920990136116047
+White,Male,ArcFace,eye_occlusion,high,0.9574287865284393
+White,Male,ArcFace,gaussian_noise,15,0.930562874659308
+White,Male,ArcFace,gaussian_blur,7,0.980524569791724
+White,Male,ArcFace,gamma_correction,0.5,0.9741924936951519
+White,Male,VGG-Face,eye_occlusion,high,0.9313203440143385
+White,Male,VGG-Face,gaussian_noise,15,0.918216522603858
+White,Male,VGG-Face,gaussian_blur,7,0.9892636961122933
+White,Male,VGG-Face,gamma_correction,0.5,0.9029625844563625
+Indian,Female,Facenet,eye_occlusion,high,0.9467514597207994
+Indian,Female,Facenet,gaussian_noise,15,0.9736033361984461
+Indian,Female,Facenet,gaussian_blur,7,0.9728823431060778
+Indian,Female,Facenet,gamma_correction,0.5,0.9390305762599305
+Indian,Female,ArcFace,eye_occlusion,high,0.9146284426892134
+Indian,Female,ArcFace,gaussian_noise,15,0.9597891039104018
+Indian,Female,ArcFace,gaussian_blur,7,0.9664692089334435
+Indian,Female,ArcFace,gamma_correction,0.5,0.9598463861216726
+Indian,Female,VGG-Face,eye_occlusion,high,0.8872331539231264
+Indian,Female,VGG-Face,gaussian_noise,15,0.9716227053631527
+Indian,Female,VGG-Face,gaussian_blur,7,0.9493133398570744
+Indian,Female,VGG-Face,gamma_correction,0.5,0.836898752550848
+East Asian,Female,Facenet,eye_occlusion,high,0.8860921105972698
+East Asian,Female,Facenet,gaussian_noise,15,0.9366618757147331
+East Asian,Female,Facenet,gaussian_blur,7,0.8144871741571792
+East Asian,Female,Facenet,gamma_correction,0.5,0.8219890345460049
+East Asian,Female,ArcFace,eye_occlusion,high,0.8722087428449036
+East Asian,Female,ArcFace,gaussian_noise,15,0.8790194157427184
+East Asian,Female,ArcFace,gaussian_blur,7,0.6958417539864007
+East Asian,Female,ArcFace,gamma_correction,0.5,0.9661234614963805
+East Asian,Female,VGG-Face,eye_occlusion,high,0.8437936242312659
+East Asian,Female,VGG-Face,gaussian_noise,15,0.9472238491885523
+East Asian,Female,VGG-Face,gaussian_blur,7,0.8437767985968819
+East Asian,Female,VGG-Face,gamma_correction,0.5,0.8921851723351204
+Middle Eastern,Female,Facenet,eye_occlusion,high,0.9981353861357342
+Middle Eastern,Female,Facenet,gaussian_noise,15,0.9873045825018232
+Middle Eastern,Female,Facenet,gaussian_blur,7,0.9856536119809626
+Middle Eastern,Female,Facenet,gamma_correction,0.5,0.9668397706779166
+Middle Eastern,Female,ArcFace,eye_occlusion,high,0.9947698705268574
+Middle Eastern,Female,ArcFace,gaussian_noise,15,0.9451909182248357
+Middle Eastern,Female,ArcFace,gaussian_blur,7,0.9602745961208349
+Middle Eastern,Female,ArcFace,gamma_correction,0.5,0.9719862232454799
+Middle Eastern,Female,VGG-Face,eye_occlusion,high,0.9978029845214555
+Middle Eastern,Female,VGG-Face,gaussian_noise,15,0.9715933703617468
+Middle Eastern,Female,VGG-Face,gaussian_blur,7,0.9681183590253093
+Middle Eastern,Female,VGG-Face,gamma_correction,0.5,0.8855012083314535
+White,Female,Facenet,eye_occlusion,high,0.9731049982406992
+White,Female,Facenet,gaussian_noise,15,0.9236254779627373
+White,Female,Facenet,gaussian_blur,7,0.9837341003550077
+White,Female,Facenet,gamma_correction,0.5,0.6124906167365374
+White,Female,ArcFace,eye_occlusion,high,0.9222005347831813
+White,Female,ArcFace,gaussian_noise,15,0.7986363605777035
+White,Female,ArcFace,gaussian_blur,7,0.9866972613719514
+White,Female,ArcFace,gamma_correction,0.5,0.8987096579408251
+White,Female,VGG-Face,eye_occlusion,high,0.9720941106181681
+White,Female,VGG-Face,gaussian_noise,15,0.960693663627751
+White,Female,VGG-Face,gaussian_blur,7,0.9981998367219248
+White,Female,VGG-Face,gamma_correction,0.5,0.8679397544023963
+Indian,Male,Facenet,eye_occlusion,high,0.8337966290149696
+Indian,Male,Facenet,gaussian_noise,15,0.9370269363551017
+Indian,Male,Facenet,gaussian_blur,7,0.9529917990145486
+Indian,Male,Facenet,gamma_correction,0.5,0.0935077165580177
+Indian,Male,ArcFace,eye_occlusion,high,0.9063371209384102
+Indian,Male,ArcFace,gaussian_noise,15,0.792913215642316
+Indian,Male,ArcFace,gaussian_blur,7,0.9420380285157786
+Indian,Male,ArcFace,gamma_correction,0.5,0.8518767516006577
+Indian,Male,VGG-Face,eye_occlusion,high,0.729757701518085
+Indian,Male,VGG-Face,gaussian_noise,15,0.9303090969457728
+Indian,Male,VGG-Face,gaussian_blur,7,0.9664634015697902
+Indian,Male,VGG-Face,gamma_correction,0.5,0.8115183720284957
+Black,Female,Facenet,eye_occlusion,high,0.9658713576652447
+Black,Female,Facenet,gaussian_noise,15,0.9804946008596185
+Black,Female,Facenet,gaussian_blur,7,0.9844712374871636
+Black,Female,Facenet,gamma_correction,0.5,0.9370328696196645
+Black,Female,ArcFace,eye_occlusion,high,0.9565200425505842
+Black,Female,ArcFace,gaussian_noise,15,0.8769858739755754
+Black,Female,ArcFace,gaussian_blur,7,0.9762598383538322
+Black,Female,ArcFace,gamma_correction,0.5,0.9529737943542014
+Black,Female,VGG-Face,eye_occlusion,high,0.9376080935918599
+Black,Female,VGG-Face,gaussian_noise,15,0.9487526937613098
+Black,Female,VGG-Face,gaussian_blur,7,0.946047309299372
+Black,Female,VGG-Face,gamma_correction,0.5,0.8357803908303135
+White,Male,Facenet,eye_occlusion,high,0.9941230536225909
+White,Male,Facenet,gaussian_noise,15,0.9439650432265951
+White,Male,Facenet,gaussian_blur,7,0.9944080671149634
+White,Male,Facenet,gamma_correction,0.5,0.9518765942989847
+White,Male,ArcFace,eye_occlusion,high,0.7231210775846021
+White,Male,ArcFace,gaussian_noise,15,0.627123342897282
+White,Male,ArcFace,gaussian_blur,7,0.9378196376150708
+White,Male,ArcFace,gamma_correction,0.5,0.5064525203664925
+White,Male,VGG-Face,eye_occlusion,high,0.9323019901841787
+White,Male,VGG-Face,gaussian_noise,15,0.8197418657659353
+White,Male,VGG-Face,gaussian_blur,7,0.9944620290470645
+White,Male,VGG-Face,gamma_correction,0.5,0.8044756227279476
+East Asian,Male,Facenet,eye_occlusion,high,0.9800858609468905
+East Asian,Male,Facenet,gaussian_noise,15,0.9031463395282971
+East Asian,Male,Facenet,gaussian_blur,7,0.9788449802113502
+East Asian,Male,Facenet,gamma_correction,0.5,0.9674274812821396
+East Asian,Male,ArcFace,eye_occlusion,high,0.9529955871747864
+East Asian,Male,ArcFace,gaussian_noise,15,0.9370733735391408
+East Asian,Male,ArcFace,gaussian_blur,7,0.9737332020318303
+East Asian,Male,ArcFace,gamma_correction,0.5,0.9542015364999733
+East Asian,Male,VGG-Face,eye_occlusion,high,0.97597001063881
+East Asian,Male,VGG-Face,gaussian_noise,15,0.965287712892318
+East Asian,Male,VGG-Face,gaussian_blur,7,0.9791511610309531
+East Asian,Male,VGG-Face,gamma_correction,0.5,0.9126849738203455
+East Asian,Male,Facenet,eye_occlusion,high,0.9745523418153634
+East Asian,Male,Facenet,gaussian_noise,15,0.9520211510075621
+East Asian,Male,Facenet,gaussian_blur,7,0.9175551259680075
+East Asian,Male,Facenet,gamma_correction,0.5,0.9010099971997033
+East Asian,Male,ArcFace,eye_occlusion,high,0.8845262990562923
+East Asian,Male,ArcFace,gaussian_noise,15,0.9177513530626813
+East Asian,Male,ArcFace,gaussian_blur,7,0.96977681269236
+East Asian,Male,ArcFace,gamma_correction,0.5,0.9813813832809906
+East Asian,Male,VGG-Face,eye_occlusion,high,0.9555087597666269
+East Asian,Male,VGG-Face,gaussian_noise,15,0.9320599003335145
+East Asian,Male,VGG-Face,gaussian_blur,7,0.9878171729371101
+East Asian,Male,VGG-Face,gamma_correction,0.5,0.9103388955517927
+White,Female,Facenet,eye_occlusion,high,0.9839084766271426
+White,Female,Facenet,gaussian_noise,15,0.9163548685236839
+White,Female,Facenet,gaussian_blur,7,0.9825866768582393
+White,Female,Facenet,gamma_correction,0.5,0.8066354022520672
+White,Female,ArcFace,eye_occlusion,high,0.9991399409131124
+White,Female,ArcFace,gaussian_noise,15,0.996991831431364
+White,Female,ArcFace,gaussian_blur,7,0.9995527514279786
+White,Female,ArcFace,gamma_correction,0.5,0.9991656977233917
+White,Female,VGG-Face,eye_occlusion,high,0.9376303809085953
+White,Female,VGG-Face,gaussian_noise,15,0.9488965788898356
+White,Female,VGG-Face,gaussian_blur,7,0.9928812441675037
+White,Female,VGG-Face,gamma_correction,0.5,0.8626885837147069
+Black,Female,Facenet,eye_occlusion,high,0.9506019832773348
+Black,Female,Facenet,gaussian_noise,15,0.9405350945707199
+Black,Female,Facenet,gaussian_blur,7,0.9932068204431148
+Black,Female,Facenet,gamma_correction,0.5,0.9011128409221608
+Black,Female,ArcFace,eye_occlusion,high,0.9676488534799003
+Black,Female,ArcFace,gaussian_noise,15,0.9695452293756825
+Black,Female,ArcFace,gaussian_blur,7,0.9959496308376937
+Black,Female,ArcFace,gamma_correction,0.5,0.9721353297276403
+Black,Female,VGG-Face,eye_occlusion,high,0.9091621064095502
+Black,Female,VGG-Face,gaussian_noise,15,0.9088378477959036
+Black,Female,VGG-Face,gaussian_blur,7,0.9941530244049313
+Black,Female,VGG-Face,gamma_correction,0.5,0.887350097144869
+Latino_Hispanic,Male,Facenet,eye_occlusion,high,0.977179328450044
+Latino_Hispanic,Male,Facenet,gaussian_noise,15,0.9586764605061627
+Latino_Hispanic,Male,Facenet,gaussian_blur,7,0.9164985520714353
+Latino_Hispanic,Male,Facenet,gamma_correction,0.5,0.7249773522330164
+Latino_Hispanic,Male,ArcFace,eye_occlusion,high,0.9343702294283239
+Latino_Hispanic,Male,ArcFace,gaussian_noise,15,0.9161594943467933
+Latino_Hispanic,Male,ArcFace,gaussian_blur,7,0.9040331744884247
+Latino_Hispanic,Male,ArcFace,gamma_correction,0.5,0.9077953653377187
+Latino_Hispanic,Male,VGG-Face,eye_occlusion,high,0.967557257772447
+Latino_Hispanic,Male,VGG-Face,gaussian_noise,15,0.970504386888364
+Latino_Hispanic,Male,VGG-Face,gaussian_blur,7,0.9780360774978871
+Latino_Hispanic,Male,VGG-Face,gamma_correction,0.5,0.899703848295169
+Black,Male,Facenet,eye_occlusion,high,0.8682548828236933
+Black,Male,Facenet,gaussian_noise,15,0.8617720755778016
+Black,Male,Facenet,gaussian_blur,7,0.9885277259915161
+Black,Male,Facenet,gamma_correction,0.5,0.8233131645439048
+Black,Male,ArcFace,eye_occlusion,high,0.8556902172253055
+Black,Male,ArcFace,gaussian_noise,15,0.8701481686633924
+Black,Male,ArcFace,gaussian_blur,7,0.9822251758553622
+Black,Male,ArcFace,gamma_correction,0.5,0.9171690640567217
+Black,Male,VGG-Face,eye_occlusion,high,0.7957971216516517
+Black,Male,VGG-Face,gaussian_noise,15,0.9107300999326323
+Black,Male,VGG-Face,gaussian_blur,7,0.989561988097507
+Black,Male,VGG-Face,gamma_correction,0.5,0.7580091007172411
+Latino_Hispanic,Male,Facenet,eye_occlusion,high,0.9366784140132516
+Latino_Hispanic,Male,Facenet,gaussian_noise,15,0.9421512800418899
+Latino_Hispanic,Male,Facenet,gaussian_blur,7,0.957415916198424
+Latino_Hispanic,Male,Facenet,gamma_correction,0.5,0.31887921436671085
+Latino_Hispanic,Male,ArcFace,eye_occlusion,high,0.9101520454261137
+Latino_Hispanic,Male,ArcFace,gaussian_noise,15,0.8374700858647275
+Latino_Hispanic,Male,ArcFace,gaussian_blur,7,0.8988684654163502
+Latino_Hispanic,Male,ArcFace,gamma_correction,0.5,0.6421501155584661
+Latino_Hispanic,Male,VGG-Face,eye_occlusion,high,0.9276943491426615
+Latino_Hispanic,Male,VGG-Face,gaussian_noise,15,0.9230099742683621
+Latino_Hispanic,Male,VGG-Face,gaussian_blur,7,0.9647872072568285
+Latino_Hispanic,Male,VGG-Face,gamma_correction,0.5,0.7912478374413335
+Southeast Asian,Male,Facenet,eye_occlusion,high,0.9092040910697038
+Southeast Asian,Male,Facenet,gaussian_noise,15,0.8807493135661166
+Southeast Asian,Male,Facenet,gaussian_blur,7,0.9720843498674909
+Southeast Asian,Male,Facenet,gamma_correction,0.5,0.49123069647186574
+Southeast Asian,Male,ArcFace,eye_occlusion,high,0.8720210451951655
+Southeast Asian,Male,ArcFace,gaussian_noise,15,0.907951053037462
+Southeast Asian,Male,ArcFace,gaussian_blur,7,0.9726454577658117
+Southeast Asian,Male,ArcFace,gamma_correction,0.5,0.8674084830363459
+Southeast Asian,Male,VGG-Face,eye_occlusion,high,0.8115548530237396
+Southeast Asian,Male,VGG-Face,gaussian_noise,15,0.8858669996996922
+Southeast Asian,Male,VGG-Face,gaussian_blur,7,0.9486354696791615
+Southeast Asian,Male,VGG-Face,gamma_correction,0.5,0.6908156899491346
+East Asian,Female,Facenet,eye_occlusion,high,0.9266207134578464
+East Asian,Female,Facenet,gaussian_noise,15,0.969183503561856
+East Asian,Female,Facenet,gaussian_blur,7,0.9853922704698466
+East Asian,Female,Facenet,gamma_correction,0.5,0.8112785778466854
+East Asian,Female,ArcFace,eye_occlusion,high,0.870167245120807
+East Asian,Female,ArcFace,gaussian_noise,15,0.9270199633269389
+East Asian,Female,ArcFace,gaussian_blur,7,0.9795888559061513
+East Asian,Female,ArcFace,gamma_correction,0.5,0.9316173505986922
+East Asian,Female,VGG-Face,eye_occlusion,high,0.8258756264869288
+East Asian,Female,VGG-Face,gaussian_noise,15,0.9186271561860339
+East Asian,Female,VGG-Face,gaussian_blur,7,0.9889816479158077
+East Asian,Female,VGG-Face,gamma_correction,0.5,0.8810911974578187
+East Asian,Male,Facenet,eye_occlusion,high,0.9123401964400366
+East Asian,Male,Facenet,gaussian_noise,15,0.7381137954491328
+East Asian,Male,Facenet,gaussian_blur,7,0.904841291111602
+East Asian,Male,Facenet,gamma_correction,0.5,0.6868512152129467
+East Asian,Male,ArcFace,eye_occlusion,high,0.9045411835998374
+East Asian,Male,ArcFace,gaussian_noise,15,0.8557434850151366
+East Asian,Male,ArcFace,gaussian_blur,7,0.9845535451181724
+East Asian,Male,ArcFace,gamma_correction,0.5,0.8420681758509796
+East Asian,Male,VGG-Face,eye_occlusion,high,0.733988255396284
+East Asian,Male,VGG-Face,gaussian_noise,15,0.7628978661632836
+East Asian,Male,VGG-Face,gaussian_blur,7,0.9921589033088625
+East Asian,Male,VGG-Face,gamma_correction,0.5,0.8682411305049631
+Southeast Asian,Female,Facenet,eye_occlusion,high,0.9942139519745818
+Southeast Asian,Female,Facenet,gaussian_noise,15,0.8170664036082702
+Southeast Asian,Female,Facenet,gaussian_blur,7,0.9302297972299877
+Southeast Asian,Female,Facenet,gamma_correction,0.5,0.5818919118097085
+Southeast Asian,Female,ArcFace,eye_occlusion,high,0.9980685768142362
+Southeast Asian,Female,ArcFace,gaussian_noise,15,0.8070393820706673
+Southeast Asian,Female,ArcFace,gaussian_blur,7,0.9760295412308522
+Southeast Asian,Female,ArcFace,gamma_correction,0.5,0.7622873068111854
+Southeast Asian,Female,VGG-Face,eye_occlusion,high,0.9738090202269044
+Southeast Asian,Female,VGG-Face,gaussian_noise,15,0.9136469112892838
+Southeast Asian,Female,VGG-Face,gaussian_blur,7,0.9867402183302665
+Southeast Asian,Female,VGG-Face,gamma_correction,0.5,0.8297902873246854
+Middle Eastern,Male,Facenet,eye_occlusion,high,0.9383671709070187
+Middle Eastern,Male,Facenet,gaussian_noise,15,0.08161264251794151
+Middle Eastern,Male,Facenet,gaussian_blur,7,0.9865546422964913
+Middle Eastern,Male,Facenet,gamma_correction,0.5,0.0895750858706895
+Middle Eastern,Male,ArcFace,eye_occlusion,high,0.9984952079663523
+Middle Eastern,Male,ArcFace,gaussian_noise,15,0.11424031717690804
+Middle Eastern,Male,ArcFace,gaussian_blur,7,0.9990047135362408
+Middle Eastern,Male,ArcFace,gamma_correction,0.5,0.08655841228463723
+Middle Eastern,Male,VGG-Face,eye_occlusion,high,0.9578038447685576
+Middle Eastern,Male,VGG-Face,gaussian_noise,15,0.09555827287022564
+Middle Eastern,Male,VGG-Face,gaussian_blur,7,0.9630317440294249
+Middle Eastern,Male,VGG-Face,gamma_correction,0.5,0.127180067782794
+Latino_Hispanic,Female,Facenet,eye_occlusion,high,0.9590850098718582
+Latino_Hispanic,Female,Facenet,gaussian_noise,15,0.9582159589407514
+Latino_Hispanic,Female,Facenet,gaussian_blur,7,0.9916810905797667
+Latino_Hispanic,Female,Facenet,gamma_correction,0.5,0.9724792054792011
+Latino_Hispanic,Female,ArcFace,eye_occlusion,high,0.9846759600722383
+Latino_Hispanic,Female,ArcFace,gaussian_noise,15,0.9921827937561022
+Latino_Hispanic,Female,ArcFace,gaussian_blur,7,0.9984755056821166
+Latino_Hispanic,Female,ArcFace,gamma_correction,0.5,0.9955401737605218
+Latino_Hispanic,Female,VGG-Face,eye_occlusion,high,0.8894110231964614
+Latino_Hispanic,Female,VGG-Face,gaussian_noise,15,0.894345292961157
+Latino_Hispanic,Female,VGG-Face,gaussian_blur,7,0.9973811319199823
+Latino_Hispanic,Female,VGG-Face,gamma_correction,0.5,0.9316458503704399
+Middle Eastern,Male,Facenet,eye_occlusion,high,0.9420036724675769
+Middle Eastern,Male,Facenet,gaussian_noise,15,0.9768058589319594
+Middle Eastern,Male,Facenet,gaussian_blur,7,0.986345604076855
+Middle Eastern,Male,Facenet,gamma_correction,0.5,0.9673218622558794
+Middle Eastern,Male,ArcFace,eye_occlusion,high,0.9366541111517165
+Middle Eastern,Male,ArcFace,gaussian_noise,15,0.9044581648691448
+Middle Eastern,Male,ArcFace,gaussian_blur,7,0.9762900827470324
+Middle Eastern,Male,ArcFace,gamma_correction,0.5,0.9752240537601494
+Middle Eastern,Male,VGG-Face,eye_occlusion,high,0.6594546600744121
+Middle Eastern,Male,VGG-Face,gaussian_noise,15,0.9545543653982959
+Middle Eastern,Male,VGG-Face,gaussian_blur,7,0.9883930520642277
+Middle Eastern,Male,VGG-Face,gamma_correction,0.5,0.9506742304972264
+Middle Eastern,Male,Facenet,eye_occlusion,high,0.8941725418571539
+Middle Eastern,Male,Facenet,gaussian_noise,15,0.9772536943174489
+Middle Eastern,Male,Facenet,gaussian_blur,7,0.9908743203151191
+Middle Eastern,Male,Facenet,gamma_correction,0.5,0.9734607952912817
+Middle Eastern,Male,ArcFace,eye_occlusion,high,0.8281888984242602
+Middle Eastern,Male,ArcFace,gaussian_noise,15,0.938266333748246
+Middle Eastern,Male,ArcFace,gaussian_blur,7,0.9829042937749237
+Middle Eastern,Male,ArcFace,gamma_correction,0.5,0.9126355114902003
+Middle Eastern,Male,VGG-Face,eye_occlusion,high,0.8151605501533487
+Middle Eastern,Male,VGG-Face,gaussian_noise,15,0.9793250287991968
+Middle Eastern,Male,VGG-Face,gaussian_blur,7,0.9898294457505608
+Middle Eastern,Male,VGG-Face,gamma_correction,0.5,0.9096758592790624
+Middle Eastern,Male,Facenet,eye_occlusion,high,0.9948570172793777
+Middle Eastern,Male,Facenet,gaussian_noise,15,0.9624165662271997
+Middle Eastern,Male,Facenet,gaussian_blur,7,0.9979041263262954
+Middle Eastern,Male,Facenet,gamma_correction,0.5,0.974023656252836
+Middle Eastern,Male,ArcFace,eye_occlusion,high,0.9979172175749983
+Middle Eastern,Male,ArcFace,gaussian_noise,15,0.988203337600306
+Middle Eastern,Male,ArcFace,gaussian_blur,7,0.9996477285047105
+Middle Eastern,Male,ArcFace,gamma_correction,0.5,0.9942821353210012
+Middle Eastern,Male,VGG-Face,eye_occlusion,high,0.9411330281446136
+Middle Eastern,Male,VGG-Face,gaussian_noise,15,0.8309691015467108
+Middle Eastern,Male,VGG-Face,gaussian_blur,7,0.9904892003885395
+Middle Eastern,Male,VGG-Face,gamma_correction,0.5,0.906047074199399
+Southeast Asian,Male,Facenet,eye_occlusion,high,0.6901151479038374
+Southeast Asian,Male,Facenet,gaussian_noise,15,0.753708748828203
+Southeast Asian,Male,Facenet,gaussian_blur,7,0.8880639889573492
+Southeast Asian,Male,Facenet,gamma_correction,0.5,0.3066312024369547
+Southeast Asian,Male,ArcFace,eye_occlusion,high,0.8496932898567426
+Southeast Asian,Male,ArcFace,gaussian_noise,15,0.6923430339780527
+Southeast Asian,Male,ArcFace,gaussian_blur,7,0.971239244908696
+Southeast Asian,Male,ArcFace,gamma_correction,0.5,0.5032712760905756
+Southeast Asian,Male,VGG-Face,eye_occlusion,high,0.877142929219071
+Southeast Asian,Male,VGG-Face,gaussian_noise,15,0.9140876321095751
+Southeast Asian,Male,VGG-Face,gaussian_blur,7,0.9870032622531814
+Southeast Asian,Male,VGG-Face,gamma_correction,0.5,0.8522227400989765
+Black,Male,Facenet,eye_occlusion,high,0.988623274089015
+Black,Male,Facenet,gaussian_noise,15,0.951838916718723
+Black,Male,Facenet,gaussian_blur,7,0.9971179005753209
+Black,Male,Facenet,gamma_correction,0.5,0.9658341290140876
+Black,Male,ArcFace,eye_occlusion,high,0.869674836825377
+Black,Male,ArcFace,gaussian_noise,15,0.7671983462390176
+Black,Male,ArcFace,gaussian_blur,7,0.9793594273171637
+Black,Male,ArcFace,gamma_correction,0.5,0.7199707573105016
+Black,Male,VGG-Face,eye_occlusion,high,0.9211136501062888
+Black,Male,VGG-Face,gaussian_noise,15,0.8188207054298672
+Black,Male,VGG-Face,gaussian_blur,7,0.9953893121941861
+Black,Male,VGG-Face,gamma_correction,0.5,0.8041219965425734
+White,Female,Facenet,eye_occlusion,high,0.9075208791402355
+White,Female,Facenet,gaussian_noise,15,0.39893314807147734
+White,Female,Facenet,gaussian_blur,7,0.7317238684156617
+White,Female,Facenet,gamma_correction,0.5,0.7097060113817626
+White,Female,ArcFace,eye_occlusion,high,0.994966143452431
+White,Female,ArcFace,gaussian_noise,15,0.9953469041940338
+White,Female,ArcFace,gaussian_blur,7,0.9792946047358586
+White,Female,ArcFace,gamma_correction,0.5,0.9830457913701054
+White,Female,VGG-Face,eye_occlusion,high,0.791961358366014
+White,Female,VGG-Face,gaussian_noise,15,0.9341004084978058
+White,Female,VGG-Face,gaussian_blur,7,0.18313014947563522
+White,Female,VGG-Face,gamma_correction,0.5,0.18711663260586844
+Latino_Hispanic,Male,Facenet,eye_occlusion,high,0.8031202096335341
+Latino_Hispanic,Male,Facenet,gaussian_noise,15,0.8553125496453102
+Latino_Hispanic,Male,Facenet,gaussian_blur,7,0.7918527530686195
+Latino_Hispanic,Male,Facenet,gamma_correction,0.5,0.787059234370265
+Latino_Hispanic,Male,ArcFace,eye_occlusion,high,0.2047260526437814
+Latino_Hispanic,Male,ArcFace,gaussian_noise,15,0.4211810947690622
+Latino_Hispanic,Male,ArcFace,gaussian_blur,7,0.8866487691785605
+Latino_Hispanic,Male,ArcFace,gamma_correction,0.5,0.9604180391179883
+Latino_Hispanic,Male,VGG-Face,eye_occlusion,high,0.4399229380534245
+Latino_Hispanic,Male,VGG-Face,gaussian_noise,15,0.8890166751689629
+Latino_Hispanic,Male,VGG-Face,gaussian_blur,7,0.8824617395403748
+Latino_Hispanic,Male,VGG-Face,gamma_correction,0.5,0.8379621519408774
+Indian,Female,Facenet,eye_occlusion,high,0.9965813866085834
+Indian,Female,Facenet,gaussian_noise,15,0.9609702207218619
+Indian,Female,Facenet,gaussian_blur,7,0.9622216073302337
+Indian,Female,Facenet,gamma_correction,0.5,0.9464774133809496
+Indian,Female,ArcFace,eye_occlusion,high,0.999912888436634
+Indian,Female,ArcFace,gaussian_noise,15,0.9983524684518792
+Indian,Female,ArcFace,gaussian_blur,7,0.9990239948187088
+Indian,Female,ArcFace,gamma_correction,0.5,0.9995043669489488
+Indian,Female,VGG-Face,eye_occlusion,high,0.9955935208591732
+Indian,Female,VGG-Face,gaussian_noise,15,0.9741786746270202
+Indian,Female,VGG-Face,gaussian_blur,7,0.9752786436495641
+Indian,Female,VGG-Face,gamma_correction,0.5,0.9433332905147493
+Black,Male,Facenet,eye_occlusion,high,0.9820864775217711
+Black,Male,Facenet,gaussian_noise,15,0.9752608634866369
+Black,Male,Facenet,gaussian_blur,7,0.9969262197893564
+Black,Male,Facenet,gamma_correction,0.5,0.9871439921808397
+Black,Male,ArcFace,eye_occlusion,high,0.9827980581877088
+Black,Male,ArcFace,gaussian_noise,15,0.9898970926603302
+Black,Male,ArcFace,gaussian_blur,7,0.9969289131181911
+Black,Male,ArcFace,gamma_correction,0.5,0.9950601868442556
+Black,Male,VGG-Face,eye_occlusion,high,0.9407761284412579
+Black,Male,VGG-Face,gaussian_noise,15,0.9691986853011734
+Black,Male,VGG-Face,gaussian_blur,7,0.9931753996037708
+Black,Male,VGG-Face,gamma_correction,0.5,0.9506455428575519
+White,Male,Facenet,eye_occlusion,high,0.9639554823159137
+White,Male,Facenet,gaussian_noise,15,0.8995170373426895
+White,Male,Facenet,gaussian_blur,7,0.9516987761363678
+White,Male,Facenet,gamma_correction,0.5,0.8770207474726924
+White,Male,ArcFace,eye_occlusion,high,0.9954409058287963
+White,Male,ArcFace,gaussian_noise,15,0.8553431029939873
+White,Male,ArcFace,gaussian_blur,7,0.9616620190582016
+White,Male,ArcFace,gamma_correction,0.5,0.9736743437645595
+White,Male,VGG-Face,eye_occlusion,high,0.971179849525313
+White,Male,VGG-Face,gaussian_noise,15,0.9487433729690209
+White,Male,VGG-Face,gaussian_blur,7,0.9905287488546747
+White,Male,VGG-Face,gamma_correction,0.5,0.9499291887066909
+East Asian,Male,Facenet,eye_occlusion,high,0.990365909411166
+East Asian,Male,Facenet,gaussian_noise,15,0.9700963097929138
+East Asian,Male,Facenet,gaussian_blur,7,0.9992320905421315
+East Asian,Male,Facenet,gamma_correction,0.5,0.9783634452726528
+East Asian,Male,ArcFace,eye_occlusion,high,0.9945117868058508
+East Asian,Male,ArcFace,gaussian_noise,15,0.9857892982010235
+East Asian,Male,ArcFace,gaussian_blur,7,0.9980648946071544
+East Asian,Male,ArcFace,gamma_correction,0.5,0.9860031585015453
+East Asian,Male,VGG-Face,eye_occlusion,high,0.9317754947970232
+East Asian,Male,VGG-Face,gaussian_noise,15,0.6760350913460939
+East Asian,Male,VGG-Face,gaussian_blur,7,0.9930191651765008
+East Asian,Male,VGG-Face,gamma_correction,0.5,0.8912980187212047
+White,Male,Facenet,eye_occlusion,high,0.9998603707276726
+White,Male,Facenet,gaussian_noise,15,0.8481150132734376
+White,Male,Facenet,gaussian_blur,7,0.9888590779911034
+White,Male,Facenet,gamma_correction,0.5,0.5712640573099409
+White,Male,ArcFace,eye_occlusion,high,0.9996681861129642
+White,Male,ArcFace,gaussian_noise,15,0.8643721962745243
+White,Male,ArcFace,gaussian_blur,7,0.9906694138410497
+White,Male,ArcFace,gamma_correction,0.5,0.8251886781247948
+White,Male,VGG-Face,eye_occlusion,high,0.9982121659391676
+White,Male,VGG-Face,gaussian_noise,15,0.877824653763084
+White,Male,VGG-Face,gaussian_blur,7,0.9962225535764115
+White,Male,VGG-Face,gamma_correction,0.5,0.6916102585174657
+Middle Eastern,Female,Facenet,eye_occlusion,high,0.82429879440728
+Middle Eastern,Female,Facenet,gaussian_noise,15,0.9349321736018343
+Middle Eastern,Female,Facenet,gaussian_blur,7,0.9873340800804651
+Middle Eastern,Female,Facenet,gamma_correction,0.5,0.9281414725829645
+Middle Eastern,Female,ArcFace,eye_occlusion,high,0.79475437407467
+Middle Eastern,Female,ArcFace,gaussian_noise,15,0.8978920306784988
+Middle Eastern,Female,ArcFace,gaussian_blur,7,0.9883096874839832
+Middle Eastern,Female,ArcFace,gamma_correction,0.5,0.962882853727425
+Middle Eastern,Female,VGG-Face,eye_occlusion,high,0.5409116232659149
+Middle Eastern,Female,VGG-Face,gaussian_noise,15,0.9583347326250189
+Middle Eastern,Female,VGG-Face,gaussian_blur,7,0.9905718232821551
+Middle Eastern,Female,VGG-Face,gamma_correction,0.5,0.9218142468146204
+Middle Eastern,Male,Facenet,eye_occlusion,high,0.8869622433252657
+Middle Eastern,Male,Facenet,gaussian_noise,15,0.9508445445580203
+Middle Eastern,Male,Facenet,gaussian_blur,7,0.9711405813309139
+Middle Eastern,Male,Facenet,gamma_correction,0.5,0.7609401935144826
+Middle Eastern,Male,ArcFace,eye_occlusion,high,0.8528306001478976
+Middle Eastern,Male,ArcFace,gaussian_noise,15,0.7973047862268383
+Middle Eastern,Male,ArcFace,gaussian_blur,7,0.9760753098861408
+Middle Eastern,Male,ArcFace,gamma_correction,0.5,0.9037296828617534
+Middle Eastern,Male,VGG-Face,eye_occlusion,high,0.7289225636853822
+Middle Eastern,Male,VGG-Face,gaussian_noise,15,0.9176961639214845
+Middle Eastern,Male,VGG-Face,gaussian_blur,7,0.9680977388565705
+Middle Eastern,Male,VGG-Face,gamma_correction,0.5,0.8750829585764236
+White,Female,Facenet,eye_occlusion,high,0.8577386970701535
+White,Female,Facenet,gaussian_noise,15,0.9591522636331385
+White,Female,Facenet,gaussian_blur,7,0.09720566943013698
+White,Female,Facenet,gamma_correction,0.5,0.9648812637747759
+White,Female,ArcFace,eye_occlusion,high,0.8272594682968023
+White,Female,ArcFace,gaussian_noise,15,0.8944359102555527
+White,Female,ArcFace,gaussian_blur,7,0.010443558611911076
+White,Female,ArcFace,gamma_correction,0.5,0.9522549080958856
+White,Female,VGG-Face,eye_occlusion,high,0.7579933793967485
+White,Female,VGG-Face,gaussian_noise,15,0.9472677888374735
+White,Female,VGG-Face,gaussian_blur,7,0.16386709702488692
+White,Female,VGG-Face,gamma_correction,0.5,0.8634060090365036
+White,Female,Facenet,eye_occlusion,high,0.9448013972587156
+White,Female,Facenet,gaussian_noise,15,0.8084734021348948
+White,Female,Facenet,gaussian_blur,7,0.9393912272726632
+White,Female,Facenet,gamma_correction,0.5,0.8153360413757532
+White,Female,ArcFace,eye_occlusion,high,0.9877569051996029
+White,Female,ArcFace,gaussian_noise,15,0.9796434751206753
+White,Female,ArcFace,gaussian_blur,7,0.9987905931672317
+White,Female,ArcFace,gamma_correction,0.5,0.9928399447733565
+White,Female,VGG-Face,eye_occlusion,high,0.8785864409405332
+White,Female,VGG-Face,gaussian_noise,15,0.8453110929175448
+White,Female,VGG-Face,gaussian_blur,7,0.9964014052060047
+White,Female,VGG-Face,gamma_correction,0.5,0.866280288423903
+Black,Female,Facenet,eye_occlusion,high,0.903309092346638
+Black,Female,Facenet,gaussian_noise,15,0.9397081160871439
+Black,Female,Facenet,gaussian_blur,7,0.9754885399425194
+Black,Female,Facenet,gamma_correction,0.5,0.972084648979967
+Black,Female,ArcFace,eye_occlusion,high,0.7966051068346915
+Black,Female,ArcFace,gaussian_noise,15,0.8963230212332415
+Black,Female,ArcFace,gaussian_blur,7,0.9689681978205519
+Black,Female,ArcFace,gamma_correction,0.5,0.9580425031692896
+Black,Female,VGG-Face,eye_occlusion,high,0.699989383994912
+Black,Female,VGG-Face,gaussian_noise,15,0.9262976642368478
+Black,Female,VGG-Face,gaussian_blur,7,0.9632266970101073
+Black,Female,VGG-Face,gamma_correction,0.5,0.9237381642109809
+Middle Eastern,Male,Facenet,eye_occlusion,high,0.9209288137320966
+Middle Eastern,Male,Facenet,gaussian_noise,15,0.9785876147512041
+Middle Eastern,Male,Facenet,gaussian_blur,7,0.9622613111603061
+Middle Eastern,Male,Facenet,gamma_correction,0.5,0.8999931388599878
+Middle Eastern,Male,ArcFace,eye_occlusion,high,0.8067559954137209
+Middle Eastern,Male,ArcFace,gaussian_noise,15,0.9358812292378657
+Middle Eastern,Male,ArcFace,gaussian_blur,7,0.9545921743205993
+Middle Eastern,Male,ArcFace,gamma_correction,0.5,0.8317866569172436
+Middle Eastern,Male,VGG-Face,eye_occlusion,high,0.7863771358108593
+Middle Eastern,Male,VGG-Face,gaussian_noise,15,0.9870493933771811
+Middle Eastern,Male,VGG-Face,gaussian_blur,7,0.9808343048619435
+Middle Eastern,Male,VGG-Face,gamma_correction,0.5,0.8700926106501436
+East Asian,Male,Facenet,eye_occlusion,high,0.9938353245354049
+East Asian,Male,Facenet,gaussian_noise,15,0.9798884707782891
+East Asian,Male,Facenet,gaussian_blur,7,0.994545305261916
+East Asian,Male,Facenet,gamma_correction,0.5,0.9683466295768998
+East Asian,Male,ArcFace,eye_occlusion,high,0.9938903654571684
+East Asian,Male,ArcFace,gaussian_noise,15,0.976866841273999
+East Asian,Male,ArcFace,gaussian_blur,7,0.9924577402835808
+East Asian,Male,ArcFace,gamma_correction,0.5,0.9685030520213675
+East Asian,Male,VGG-Face,eye_occlusion,high,0.9400403782349359
+East Asian,Male,VGG-Face,gaussian_noise,15,0.7483079367053717
+East Asian,Male,VGG-Face,gaussian_blur,7,0.9865164872222969
+East Asian,Male,VGG-Face,gamma_correction,0.5,0.7131755764702546
+Indian,Male,Facenet,eye_occlusion,high,0.9841322113564005
+Indian,Male,Facenet,gaussian_noise,15,0.966336223190595
+Indian,Male,Facenet,gaussian_blur,7,0.9672704093408423
+Indian,Male,Facenet,gamma_correction,0.5,0.963127586924128
+Indian,Male,ArcFace,eye_occlusion,high,0.9920582882703798
+Indian,Male,ArcFace,gaussian_noise,15,0.9748681531081074
+Indian,Male,ArcFace,gaussian_blur,7,0.9956495198252331
+Indian,Male,ArcFace,gamma_correction,0.5,0.9725451834987702
+Indian,Male,VGG-Face,eye_occlusion,high,0.9733789284809887
+Indian,Male,VGG-Face,gaussian_noise,15,0.9085345876360026
+Indian,Male,VGG-Face,gaussian_blur,7,0.9824635992799393
+Indian,Male,VGG-Face,gamma_correction,0.5,0.5376882778633088
+Latino_Hispanic,Male,Facenet,eye_occlusion,high,0.9731380701879656
+Latino_Hispanic,Male,Facenet,gaussian_noise,15,0.9474102907670786
+Latino_Hispanic,Male,Facenet,gaussian_blur,7,0.9805463894147266
+Latino_Hispanic,Male,Facenet,gamma_correction,0.5,0.49337913144070955
+Latino_Hispanic,Male,ArcFace,eye_occlusion,high,0.938901645417052
+Latino_Hispanic,Male,ArcFace,gaussian_noise,15,0.9448973807937173
+Latino_Hispanic,Male,ArcFace,gaussian_blur,7,0.9551799057652883
+Latino_Hispanic,Male,ArcFace,gamma_correction,0.5,0.7813851905068564
+Latino_Hispanic,Male,VGG-Face,eye_occlusion,high,0.8071872363315187
+Latino_Hispanic,Male,VGG-Face,gaussian_noise,15,0.9570195449729262
+Latino_Hispanic,Male,VGG-Face,gaussian_blur,7,0.9492778332355553
+Latino_Hispanic,Male,VGG-Face,gamma_correction,0.5,0.6959500130300482
+White,Female,Facenet,eye_occlusion,high,0.937063918725851
+White,Female,Facenet,gaussian_noise,15,0.9676254196526991
+White,Female,Facenet,gaussian_blur,7,0.980025287966093
+White,Female,Facenet,gamma_correction,0.5,0.9570991058035154
+White,Female,ArcFace,eye_occlusion,high,0.9963399087218238
+White,Female,ArcFace,gaussian_noise,15,0.9951757530292268
+White,Female,ArcFace,gaussian_blur,7,0.9988947406682124
+White,Female,ArcFace,gamma_correction,0.5,0.9987757987308421
+White,Female,VGG-Face,eye_occlusion,high,0.912790864300594
+White,Female,VGG-Face,gaussian_noise,15,0.9397038562585295
+White,Female,VGG-Face,gaussian_blur,7,0.9926927093159037
+White,Female,VGG-Face,gamma_correction,0.5,0.9124961822730889
+Middle Eastern,Male,Facenet,eye_occlusion,high,0.9185544723632421
+Middle Eastern,Male,Facenet,gaussian_noise,15,0.8850811860390607
+Middle Eastern,Male,Facenet,gaussian_blur,7,0.7420354445655467
+Middle Eastern,Male,Facenet,gamma_correction,0.5,0.20131256121788102
+Middle Eastern,Male,ArcFace,eye_occlusion,high,0.882914235124679
+Middle Eastern,Male,ArcFace,gaussian_noise,15,0.85831606586417
+Middle Eastern,Male,ArcFace,gaussian_blur,7,0.8453327047755916
+Middle Eastern,Male,ArcFace,gamma_correction,0.5,0.8668376227778574
+Middle Eastern,Male,VGG-Face,eye_occlusion,high,0.8608145235646564
+Middle Eastern,Male,VGG-Face,gaussian_noise,15,0.11482684128942401
+Middle Eastern,Male,VGG-Face,gaussian_blur,7,0.864069165118246
+Middle Eastern,Male,VGG-Face,gamma_correction,0.5,0.6901425632808835
+East Asian,Male,Facenet,eye_occlusion,high,0.9752271455236512
+East Asian,Male,Facenet,gaussian_noise,15,0.9818085159952126
+East Asian,Male,Facenet,gaussian_blur,7,0.9934117050089596
+East Asian,Male,Facenet,gamma_correction,0.5,0.9440745998038019
+East Asian,Male,ArcFace,eye_occlusion,high,0.9441996990863132
+East Asian,Male,ArcFace,gaussian_noise,15,0.945241296575508
+East Asian,Male,ArcFace,gaussian_blur,7,0.985618769060366
+East Asian,Male,ArcFace,gamma_correction,0.5,0.9157013109780449
+East Asian,Male,VGG-Face,eye_occlusion,high,0.9680218912613521
+East Asian,Male,VGG-Face,gaussian_noise,15,0.9742778024630714
+East Asian,Male,VGG-Face,gaussian_blur,7,0.9892219978561959
+East Asian,Male,VGG-Face,gamma_correction,0.5,0.8308797430065118
+Black,Female,Facenet,eye_occlusion,high,0.9975949431691669
+Black,Female,Facenet,gaussian_noise,15,0.9033394388020993
+Black,Female,Facenet,gaussian_blur,7,0.9247882002598625
+Black,Female,Facenet,gamma_correction,0.5,0.8309642941433127
+Black,Female,ArcFace,eye_occlusion,high,0.9931601578746865
+Black,Female,ArcFace,gaussian_noise,15,0.7356597824232544
+Black,Female,ArcFace,gaussian_blur,7,0.9032148764019464
+Black,Female,ArcFace,gamma_correction,0.5,0.3264505257789992
+Black,Female,VGG-Face,eye_occlusion,high,0.9929071798935443
+Black,Female,VGG-Face,gaussian_noise,15,0.906833790063428
+Black,Female,VGG-Face,gaussian_blur,7,0.8911121125881202
+Black,Female,VGG-Face,gamma_correction,0.5,0.7006073188496487
+Black,Male,Facenet,eye_occlusion,high,0.8609528107124826
+Black,Male,Facenet,gaussian_noise,15,0.9402602886590758
+Black,Male,Facenet,gaussian_blur,7,0.9274346111473079
+Black,Male,Facenet,gamma_correction,0.5,0.7413292421891305
+Black,Male,ArcFace,eye_occlusion,high,0.9330708569848719
+Black,Male,ArcFace,gaussian_noise,15,0.9641792960805383
+Black,Male,ArcFace,gaussian_blur,7,0.9864537863361492
+Black,Male,ArcFace,gamma_correction,0.5,0.9273243996202649
+Black,Male,VGG-Face,eye_occlusion,high,0.8902242830288764
+Black,Male,VGG-Face,gaussian_noise,15,0.9478179721756252
+Black,Male,VGG-Face,gaussian_blur,7,0.9653418281323262
+Black,Male,VGG-Face,gamma_correction,0.5,0.7318897728542522
+Southeast Asian,Male,Facenet,eye_occlusion,high,0.9185436343663697
+Southeast Asian,Male,Facenet,gaussian_noise,15,0.9725897102565387
+Southeast Asian,Male,Facenet,gaussian_blur,7,0.989882543872107
+Southeast Asian,Male,Facenet,gamma_correction,0.5,0.7879390252936428
+Southeast Asian,Male,ArcFace,eye_occlusion,high,0.9261981710374141
+Southeast Asian,Male,ArcFace,gaussian_noise,15,0.9528095778944815
+Southeast Asian,Male,ArcFace,gaussian_blur,7,0.9887881065378692
+Southeast Asian,Male,ArcFace,gamma_correction,0.5,0.9221068277355569
+Southeast Asian,Male,VGG-Face,eye_occlusion,high,0.7991280243167193
+Southeast Asian,Male,VGG-Face,gaussian_noise,15,0.9670571190861068
+Southeast Asian,Male,VGG-Face,gaussian_blur,7,0.991748659632233
+Southeast Asian,Male,VGG-Face,gamma_correction,0.5,0.7036398292290653
+East Asian,Male,Facenet,eye_occlusion,high,0.8041895770194404
+East Asian,Male,Facenet,gaussian_noise,15,0.9493250360134541
+East Asian,Male,Facenet,gaussian_blur,7,0.8709455795176436
+East Asian,Male,Facenet,gamma_correction,0.5,0.596733748925054
+East Asian,Male,ArcFace,eye_occlusion,high,0.5666430086982823
+East Asian,Male,ArcFace,gaussian_noise,15,0.33177329579250403
+East Asian,Male,ArcFace,gaussian_blur,7,0.9489822747630509
+East Asian,Male,ArcFace,gamma_correction,0.5,0.8877093644495054
+East Asian,Male,VGG-Face,eye_occlusion,high,0.8217716965924922
+East Asian,Male,VGG-Face,gaussian_noise,15,0.9693892797870349
+East Asian,Male,VGG-Face,gaussian_blur,7,0.982835323479012
+East Asian,Male,VGG-Face,gamma_correction,0.5,0.8679480320467414
+Middle Eastern,Female,Facenet,eye_occlusion,high,0.9278977500109583
+Middle Eastern,Female,Facenet,gaussian_noise,15,0.9034597082820198
+Middle Eastern,Female,Facenet,gaussian_blur,7,0.9656944179844275
+Middle Eastern,Female,Facenet,gamma_correction,0.5,0.4442109741326921
+Middle Eastern,Female,ArcFace,eye_occlusion,high,0.9106601210035543
+Middle Eastern,Female,ArcFace,gaussian_noise,15,0.738495402556849
+Middle Eastern,Female,ArcFace,gaussian_blur,7,0.942466386289235
+Middle Eastern,Female,ArcFace,gamma_correction,0.5,0.5872729684657207
+Middle Eastern,Female,VGG-Face,eye_occlusion,high,0.9035806716928014
+Middle Eastern,Female,VGG-Face,gaussian_noise,15,0.9037060909319707
+Middle Eastern,Female,VGG-Face,gaussian_blur,7,0.99200778994466
+Middle Eastern,Female,VGG-Face,gamma_correction,0.5,0.861173320512165
+Middle Eastern,Female,Facenet,eye_occlusion,high,0.9834534449548558
+Middle Eastern,Female,Facenet,gaussian_noise,15,0.9401953091966221
+Middle Eastern,Female,Facenet,gaussian_blur,7,0.9913224117898721
+Middle Eastern,Female,Facenet,gamma_correction,0.5,0.972719935743028
+Middle Eastern,Female,ArcFace,eye_occlusion,high,0.9956451699751524
+Middle Eastern,Female,ArcFace,gaussian_noise,15,0.9959991281313506
+Middle Eastern,Female,ArcFace,gaussian_blur,7,0.9978396156845926
+Middle Eastern,Female,ArcFace,gamma_correction,0.5,0.9894584399324104
+Middle Eastern,Female,VGG-Face,eye_occlusion,high,0.9675502909533272
+Middle Eastern,Female,VGG-Face,gaussian_noise,15,0.9543447382480935
+Middle Eastern,Female,VGG-Face,gaussian_blur,7,0.9905639898834019
+Middle Eastern,Female,VGG-Face,gamma_correction,0.5,0.853713815497446
+Indian,Female,Facenet,eye_occlusion,high,0.9162780865451442
+Indian,Female,Facenet,gaussian_noise,15,0.9798665109419202
+Indian,Female,Facenet,gaussian_blur,7,0.9922029332402492
+Indian,Female,Facenet,gamma_correction,0.5,0.9543352143531486
+Indian,Female,ArcFace,eye_occlusion,high,0.8035327607890197
+Indian,Female,ArcFace,gaussian_noise,15,0.9251739113851337
+Indian,Female,ArcFace,gaussian_blur,7,0.9897852539477273
+Indian,Female,ArcFace,gamma_correction,0.5,0.937516849560587
+Indian,Female,VGG-Face,eye_occlusion,high,0.8521512494315889
+Indian,Female,VGG-Face,gaussian_noise,15,0.9740990281431924
+Indian,Female,VGG-Face,gaussian_blur,7,0.9911579949180206
+Indian,Female,VGG-Face,gamma_correction,0.5,0.8994473659290148
+White,Female,Facenet,eye_occlusion,high,0.62220489918926
+White,Female,Facenet,gaussian_noise,15,0.8562679202221802
+White,Female,Facenet,gaussian_blur,7,0.8557233657652572
+White,Female,Facenet,gamma_correction,0.5,0.4177425398958408
+White,Female,ArcFace,eye_occlusion,high,0.7411052627928332
+White,Female,ArcFace,gaussian_noise,15,0.759588623867287
+White,Female,ArcFace,gaussian_blur,7,0.9739669571371835
+White,Female,ArcFace,gamma_correction,0.5,0.10682376831223912
+White,Female,VGG-Face,eye_occlusion,high,0.6953379838696868
+White,Female,VGG-Face,gaussian_noise,15,0.872542551648466
+White,Female,VGG-Face,gaussian_blur,7,0.9796676710632133
+White,Female,VGG-Face,gamma_correction,0.5,0.25093134161952774
+Indian,Male,Facenet,eye_occlusion,high,0.9704917225576037
+Indian,Male,Facenet,gaussian_noise,15,0.9774408359233283
+Indian,Male,Facenet,gaussian_blur,7,0.9340983424514702
+Indian,Male,Facenet,gamma_correction,0.5,0.9189509206158551
+Indian,Male,ArcFace,eye_occlusion,high,0.9630199588671463
+Indian,Male,ArcFace,gaussian_noise,15,0.900283354697371
+Indian,Male,ArcFace,gaussian_blur,7,0.9381158791156737
+Indian,Male,ArcFace,gamma_correction,0.5,0.929648023733786
+Indian,Male,VGG-Face,eye_occlusion,high,0.952399549201383
+Indian,Male,VGG-Face,gaussian_noise,15,0.980706161916617
+Indian,Male,VGG-Face,gaussian_blur,7,0.9700443111761013
+Indian,Male,VGG-Face,gamma_correction,0.5,0.929114191918579
+Latino_Hispanic,Male,Facenet,eye_occlusion,high,0.9999208832487334
+Latino_Hispanic,Male,Facenet,gaussian_noise,15,0.8638866427772468
+Latino_Hispanic,Male,Facenet,gaussian_blur,7,0.9809097084823771
+Latino_Hispanic,Male,Facenet,gamma_correction,0.5,0.9296048546009823
+Latino_Hispanic,Male,ArcFace,eye_occlusion,high,0.9995663985984895
+Latino_Hispanic,Male,ArcFace,gaussian_noise,15,0.9509263163636446
+Latino_Hispanic,Male,ArcFace,gaussian_blur,7,0.9900494377470475
+Latino_Hispanic,Male,ArcFace,gamma_correction,0.5,0.8448851574796367
+Latino_Hispanic,Male,VGG-Face,eye_occlusion,high,0.9992548637701808
+Latino_Hispanic,Male,VGG-Face,gaussian_noise,15,0.9322709967878471
+Latino_Hispanic,Male,VGG-Face,gaussian_blur,7,0.9873024449399733
+Latino_Hispanic,Male,VGG-Face,gamma_correction,0.5,0.8391809023728026
+White,Male,Facenet,eye_occlusion,high,1.0
+White,Male,Facenet,gaussian_noise,15,0.41434499789267226
+White,Male,Facenet,gaussian_blur,7,0.999449068176161
+White,Male,Facenet,gamma_correction,0.5,0.998459770319182
+White,Male,ArcFace,eye_occlusion,high,0.9999999999999999
+White,Male,ArcFace,gaussian_noise,15,0.9800933734237763
+White,Male,ArcFace,gaussian_blur,7,0.9979358188034106
+White,Male,ArcFace,gamma_correction,0.5,0.9994972257417509
+White,Male,VGG-Face,eye_occlusion,high,1.0
+White,Male,VGG-Face,gaussian_noise,15,0.10161418024823697
+White,Male,VGG-Face,gaussian_blur,7,0.974821746549706
+White,Male,VGG-Face,gamma_correction,0.5,0.9238201038645969
+Middle Eastern,Male,Facenet,eye_occlusion,high,0.993661385865319
+Middle Eastern,Male,Facenet,gaussian_noise,15,0.9275926093332468
+Middle Eastern,Male,Facenet,gaussian_blur,7,0.9824380424008005
+Middle Eastern,Male,Facenet,gamma_correction,0.5,0.5568962073458635
+Middle Eastern,Male,ArcFace,eye_occlusion,high,0.9939794347626519
+Middle Eastern,Male,ArcFace,gaussian_noise,15,0.8546393905123699
+Middle Eastern,Male,ArcFace,gaussian_blur,7,0.9590216159379171
+Middle Eastern,Male,ArcFace,gamma_correction,0.5,0.8522005716694522
+Middle Eastern,Male,VGG-Face,eye_occlusion,high,0.9961037740667209
+Middle Eastern,Male,VGG-Face,gaussian_noise,15,0.9481178223810667
+Middle Eastern,Male,VGG-Face,gaussian_blur,7,0.9942095588549998
+Middle Eastern,Male,VGG-Face,gamma_correction,0.5,0.6948709763313347
+East Asian,Male,Facenet,eye_occlusion,high,0.8015361867121699
+East Asian,Male,Facenet,gaussian_noise,15,0.6901871403642772
+East Asian,Male,Facenet,gaussian_blur,7,0.7996915397091459
+East Asian,Male,Facenet,gamma_correction,0.5,0.7521635324948259
+East Asian,Male,ArcFace,eye_occlusion,high,0.36306105251659554
+East Asian,Male,ArcFace,gaussian_noise,15,0.8886623426061793
+East Asian,Male,ArcFace,gaussian_blur,7,0.9619059580595912
+East Asian,Male,ArcFace,gamma_correction,0.5,0.3990738953083673
+East Asian,Male,VGG-Face,eye_occlusion,high,0.6600693751207978
+East Asian,Male,VGG-Face,gaussian_noise,15,0.8524304403891705
+East Asian,Male,VGG-Face,gaussian_blur,7,0.9563307205869878
+East Asian,Male,VGG-Face,gamma_correction,0.5,0.685066934907738
+Southeast Asian,Female,Facenet,eye_occlusion,high,0.20603999498816358
+Southeast Asian,Female,Facenet,gaussian_noise,15,0.9578364018090351
+Southeast Asian,Female,Facenet,gaussian_blur,7,0.9263780661673824
+Southeast Asian,Female,Facenet,gamma_correction,0.5,0.9329838904086506
+Southeast Asian,Female,ArcFace,eye_occlusion,high,0.0349634528148302
+Southeast Asian,Female,ArcFace,gaussian_noise,15,0.9268150024370578
+Southeast Asian,Female,ArcFace,gaussian_blur,7,0.9477958852108107
+Southeast Asian,Female,ArcFace,gamma_correction,0.5,0.9633026938304589
+Southeast Asian,Female,VGG-Face,eye_occlusion,high,0.12412941890022945
+Southeast Asian,Female,VGG-Face,gaussian_noise,15,0.9454742715825221
+Southeast Asian,Female,VGG-Face,gaussian_blur,7,0.9475573537288864
+Southeast Asian,Female,VGG-Face,gamma_correction,0.5,0.8645157961088226
+Indian,Male,Facenet,eye_occlusion,high,0.9624844313475673
+Indian,Male,Facenet,gaussian_noise,15,0.9575763168179013
+Indian,Male,Facenet,gaussian_blur,7,0.9887447369210155
+Indian,Male,Facenet,gamma_correction,0.5,0.9536843056849362
+Indian,Male,ArcFace,eye_occlusion,high,0.9979945549262542
+Indian,Male,ArcFace,gaussian_noise,15,0.9948506171163088
+Indian,Male,ArcFace,gaussian_blur,7,0.998978532171026
+Indian,Male,ArcFace,gamma_correction,0.5,0.9982854476391007
+Indian,Male,VGG-Face,eye_occlusion,high,0.923816527763974
+Indian,Male,VGG-Face,gaussian_noise,15,0.9230295503209172
+Indian,Male,VGG-Face,gaussian_blur,7,0.994201180616382
+Indian,Male,VGG-Face,gamma_correction,0.5,0.9115334119009101
+Black,Male,Facenet,eye_occlusion,high,0.9974950246464626
+Black,Male,Facenet,gaussian_noise,15,0.9659314330405356
+Black,Male,Facenet,gaussian_blur,7,0.973139787322369
+Black,Male,Facenet,gamma_correction,0.5,0.8482106476092107
+Black,Male,ArcFace,eye_occlusion,high,0.9919544208201523
+Black,Male,ArcFace,gaussian_noise,15,0.9057442037326644
+Black,Male,ArcFace,gaussian_blur,7,0.9372370127478508
+Black,Male,ArcFace,gamma_correction,0.5,0.9261681390758483
+Black,Male,VGG-Face,eye_occlusion,high,0.9955568757698925
+Black,Male,VGG-Face,gaussian_noise,15,0.9557814732797868
+Black,Male,VGG-Face,gaussian_blur,7,0.9682999168002554
+Black,Male,VGG-Face,gamma_correction,0.5,0.826230847142446
+Latino_Hispanic,Male,Facenet,eye_occlusion,high,0.9747122920550142
+Latino_Hispanic,Male,Facenet,gaussian_noise,15,0.9604706633850875
+Latino_Hispanic,Male,Facenet,gaussian_blur,7,0.9910006292202364
+Latino_Hispanic,Male,Facenet,gamma_correction,0.5,0.9104892726938889
+Latino_Hispanic,Male,ArcFace,eye_occlusion,high,0.9677800851099607
+Latino_Hispanic,Male,ArcFace,gaussian_noise,15,0.9205842902884647
+Latino_Hispanic,Male,ArcFace,gaussian_blur,7,0.9712730318689804
+Latino_Hispanic,Male,ArcFace,gamma_correction,0.5,0.8888554830049631
+Latino_Hispanic,Male,VGG-Face,eye_occlusion,high,0.971304580882711
+Latino_Hispanic,Male,VGG-Face,gaussian_noise,15,0.9407939368006134
+Latino_Hispanic,Male,VGG-Face,gaussian_blur,7,0.9715217672511488
+Latino_Hispanic,Male,VGG-Face,gamma_correction,0.5,0.7986548974213884
+Latino_Hispanic,Female,Facenet,eye_occlusion,high,0.7998873926240936
+Latino_Hispanic,Female,Facenet,gaussian_noise,15,0.7376631433905882
+Latino_Hispanic,Female,Facenet,gaussian_blur,7,0.9766064182495745
+Latino_Hispanic,Female,Facenet,gamma_correction,0.5,0.927197209410067
+Latino_Hispanic,Female,ArcFace,eye_occlusion,high,0.9922411275401697
+Latino_Hispanic,Female,ArcFace,gaussian_noise,15,0.9874202651658295
+Latino_Hispanic,Female,ArcFace,gaussian_blur,7,0.9991074650812987
+Latino_Hispanic,Female,ArcFace,gamma_correction,0.5,0.9978585632551722
+Latino_Hispanic,Female,VGG-Face,eye_occlusion,high,0.9132474183170041
+Latino_Hispanic,Female,VGG-Face,gaussian_noise,15,0.8806616150777147
+Latino_Hispanic,Female,VGG-Face,gaussian_blur,7,0.9960019059636493
+Latino_Hispanic,Female,VGG-Face,gamma_correction,0.5,0.9284011733366724
+Middle Eastern,Male,Facenet,eye_occlusion,high,0.8117143385033426
+Middle Eastern,Male,Facenet,gaussian_noise,15,0.9649335663622632
+Middle Eastern,Male,Facenet,gaussian_blur,7,0.9901415449552532
+Middle Eastern,Male,Facenet,gamma_correction,0.5,0.8336607067170575
+Middle Eastern,Male,ArcFace,eye_occlusion,high,0.8440755749325135
+Middle Eastern,Male,ArcFace,gaussian_noise,15,0.9137370285915227
+Middle Eastern,Male,ArcFace,gaussian_blur,7,0.9895596523501998
+Middle Eastern,Male,ArcFace,gamma_correction,0.5,0.8682491712768002
+Middle Eastern,Male,VGG-Face,eye_occlusion,high,0.8135127769076228
+Middle Eastern,Male,VGG-Face,gaussian_noise,15,0.9531181038874459
+Middle Eastern,Male,VGG-Face,gaussian_blur,7,0.9956394226950088
+Middle Eastern,Male,VGG-Face,gamma_correction,0.5,0.7943697503478732
+Black,Male,Facenet,eye_occlusion,high,0.922746432808721
+Black,Male,Facenet,gaussian_noise,15,0.9212837447073267
+Black,Male,Facenet,gaussian_blur,7,0.980103372789636
+Black,Male,Facenet,gamma_correction,0.5,0.16601070061941967
+Black,Male,ArcFace,eye_occlusion,high,0.8489089780753348
+Black,Male,ArcFace,gaussian_noise,15,0.819092934293622
+Black,Male,ArcFace,gaussian_blur,7,0.9879833688396763
+Black,Male,ArcFace,gamma_correction,0.5,0.5116743764949061
+Black,Male,VGG-Face,eye_occlusion,high,0.7015955758966117
+Black,Male,VGG-Face,gaussian_noise,15,0.8774119977604259
+Black,Male,VGG-Face,gaussian_blur,7,0.9922051432504118
+Black,Male,VGG-Face,gamma_correction,0.5,0.5425610830244548
+East Asian,Female,Facenet,eye_occlusion,high,0.9572439637158484
+East Asian,Female,Facenet,gaussian_noise,15,0.9559254958674712
+East Asian,Female,Facenet,gaussian_blur,7,0.9930730302874633
+East Asian,Female,Facenet,gamma_correction,0.5,0.9236673615897589
+East Asian,Female,ArcFace,eye_occlusion,high,0.9817070145287118
+East Asian,Female,ArcFace,gaussian_noise,15,0.9900517153448641
+East Asian,Female,ArcFace,gaussian_blur,7,0.9985100323277145
+East Asian,Female,ArcFace,gamma_correction,0.5,0.990120987831331
+East Asian,Female,VGG-Face,eye_occlusion,high,0.9538903979793907
+East Asian,Female,VGG-Face,gaussian_noise,15,0.9323964231224615
+East Asian,Female,VGG-Face,gaussian_blur,7,0.9960308780012234
+East Asian,Female,VGG-Face,gamma_correction,0.5,0.8546780709541484
+Latino_Hispanic,Male,Facenet,eye_occlusion,high,0.9253679107287306
+Latino_Hispanic,Male,Facenet,gaussian_noise,15,0.8312776208845479
+Latino_Hispanic,Male,Facenet,gaussian_blur,7,0.9460708410416766
+Latino_Hispanic,Male,Facenet,gamma_correction,0.5,0.8589369728972771
+Latino_Hispanic,Male,ArcFace,eye_occlusion,high,0.900875948716505
+Latino_Hispanic,Male,ArcFace,gaussian_noise,15,0.9312132056526646
+Latino_Hispanic,Male,ArcFace,gaussian_blur,7,0.9029291613728712
+Latino_Hispanic,Male,ArcFace,gamma_correction,0.5,0.8941694074171023
+Latino_Hispanic,Male,VGG-Face,eye_occlusion,high,0.9040965448462686
+Latino_Hispanic,Male,VGG-Face,gaussian_noise,15,0.8581208297965178
+Latino_Hispanic,Male,VGG-Face,gaussian_blur,7,0.8965598012739818
+Latino_Hispanic,Male,VGG-Face,gamma_correction,0.5,0.7641302315852071
+Southeast Asian,Female,Facenet,eye_occlusion,high,0.7549775585813426
+Southeast Asian,Female,Facenet,gaussian_noise,15,0.7726617665986611
+Southeast Asian,Female,Facenet,gaussian_blur,7,0.9668345184806615
+Southeast Asian,Female,Facenet,gamma_correction,0.5,0.16145804863037616
+Southeast Asian,Female,ArcFace,eye_occlusion,high,0.747380154666206
+Southeast Asian,Female,ArcFace,gaussian_noise,15,0.8668035339631794
+Southeast Asian,Female,ArcFace,gaussian_blur,7,0.9559734739891322
+Southeast Asian,Female,ArcFace,gamma_correction,0.5,0.8300330748498953
+Southeast Asian,Female,VGG-Face,eye_occlusion,high,0.643849958972053
+Southeast Asian,Female,VGG-Face,gaussian_noise,15,0.9139646818165013
+Southeast Asian,Female,VGG-Face,gaussian_blur,7,0.9525005842652967
+Southeast Asian,Female,VGG-Face,gamma_correction,0.5,0.8340430474860229
+Middle Eastern,Male,Facenet,eye_occlusion,high,0.9387209234750558
+Middle Eastern,Male,Facenet,gaussian_noise,15,0.9297405164455812
+Middle Eastern,Male,Facenet,gaussian_blur,7,0.9355960925468291
+Middle Eastern,Male,Facenet,gamma_correction,0.5,0.682507086239874
+Middle Eastern,Male,ArcFace,eye_occlusion,high,0.8980227989190592
+Middle Eastern,Male,ArcFace,gaussian_noise,15,0.8488414821647393
+Middle Eastern,Male,ArcFace,gaussian_blur,7,0.975051840477871
+Middle Eastern,Male,ArcFace,gamma_correction,0.5,0.8189214479405403
+Middle Eastern,Male,VGG-Face,eye_occlusion,high,0.9252481471846117
+Middle Eastern,Male,VGG-Face,gaussian_noise,15,0.8979795939640867
+Middle Eastern,Male,VGG-Face,gaussian_blur,7,0.9912837515732259
+Middle Eastern,Male,VGG-Face,gamma_correction,0.5,0.7904540650965061
+Middle Eastern,Male,Facenet,eye_occlusion,high,0.10377722085722048
+Middle Eastern,Male,Facenet,gaussian_noise,15,0.9315577663890994
+Middle Eastern,Male,Facenet,gaussian_blur,7,0.9919612749624352
+Middle Eastern,Male,Facenet,gamma_correction,0.5,0.9388327903582491
+Middle Eastern,Male,ArcFace,eye_occlusion,high,0.0196029022810242
+Middle Eastern,Male,ArcFace,gaussian_noise,15,0.5412291003331525
+Middle Eastern,Male,ArcFace,gaussian_blur,7,0.9786457336498018
+Middle Eastern,Male,ArcFace,gamma_correction,0.5,0.9549772188135521
+Middle Eastern,Male,VGG-Face,eye_occlusion,high,0.12181313261880172
+Middle Eastern,Male,VGG-Face,gaussian_noise,15,0.9293036934720706
+Middle Eastern,Male,VGG-Face,gaussian_blur,7,0.987472968232592
+Middle Eastern,Male,VGG-Face,gamma_correction,0.5,0.953986367454243
+White,Male,Facenet,eye_occlusion,high,0.8845803327726595
+White,Male,Facenet,gaussian_noise,15,0.9536232132389529
+White,Male,Facenet,gaussian_blur,7,0.9926815624804255
+White,Male,Facenet,gamma_correction,0.5,0.9125728520612466
+White,Male,ArcFace,eye_occlusion,high,0.8910072085791629
+White,Male,ArcFace,gaussian_noise,15,0.8403841676710541
+White,Male,ArcFace,gaussian_blur,7,0.9829828976823171
+White,Male,ArcFace,gamma_correction,0.5,0.8422534740959744
+White,Male,VGG-Face,eye_occlusion,high,0.7008074789119192
+White,Male,VGG-Face,gaussian_noise,15,0.9577800126308085
+White,Male,VGG-Face,gaussian_blur,7,0.9906693734835686
+White,Male,VGG-Face,gamma_correction,0.5,0.8326568358610482
